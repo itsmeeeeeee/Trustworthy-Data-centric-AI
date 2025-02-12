@@ -1,0 +1,888 @@
+original_input,gold_reference,google/flan-t5-xxl,davinci-instruct-beta,gpt-3.5-turbo,id
+"After enjoyable activities , like petting , play or talking , both dogs and humans feel a surge of chemicals in their bodies .","After activities such as petting , play or talking , both dogs and humans feel a rush of chemicals in their bodies .","After enjoyable activities , both dogs and humans feel a surge of chemicals in their bodies .","Simplified version 1: After fun activities such as petting, playing, or talking, dogs and humans both experience a chemical boost in their bodies.
+
+Simplified version 2: When dogs and humans engage in enjoyable activities like petting, playing, or talking, they both get a chemical boost in their bodies.
+
+Chosen version: When dogs and humans engage in enjoyable activities like petting, playing, or talking, they both get a chemical boost in their bodies.","Simplified version 1: After fun activities such as petting, playing, or talking, dogs and humans both experience a chemical boost in their bodies.
+
+Simplified version 2: When dogs and humans engage in enjoyable activities like petting, playing, or talking, they both get a chemical boost in their bodies.
+
+Chosen version: When dogs and humans engage in enjoyable activities like petting, playing, or talking, they both get a chemical boost in their bodies.",912cd406dd6b3bd7d5d9bb7b1e98c890831b148c3d88e0c0319ce2cedae33f9d
+The National Institute of Anthropology and History said Monday that a team led by archaeologist Leonardo Lopez Lujan had discovered an 8.4-meter-long -LRB- 27-foot-long -RRB- tunnel leading into the center of a circular platform where dead rulers were believed to have been cremated .,The National Institute of Anthropology and History is a Mexican government department that researches Mexican history . They announced recently that a team had discovered a 27-foot-long -LRB- 8.4-meter -RRB- tunnel . The team was led by archaeologist Leonardo Lopez Lujan . The tunnel leads into the center of a circular platform . Dead rulers were believed to have been cremated at the site .,The National Institute of Anthropology and History said Monday that a team led by archaeologist Leonardo Lopez Lujan had discovered an 8.4-meter-long tunnel leading into the center of a circular platform where dead rulers were believed to have been cremated.,"Simplified version 1: The National Institute of Anthropology and History announced on Monday that a team led by archaeologist Leonardo Lopez Lujan found a 27-foot-long tunnel leading to a circular platform where dead rulers were cremated.
+
+Simplified version 2: The National Institute of Anthropology and History revealed on Monday that an archaeologist named Leonardo Lopez Lujan led a team that discovered a 27-foot-long tunnel. It leads to a circular platform where dead rulers were cremated. 
+
+**Chosen version:**
+The National Institute of Anthropology and History announced on Monday that a team led by archaeologist Leonardo Lopez Lujan found a 27-foot-long tunnel leading to a circular platform where dead rulers were cremated.","Simplified version 1: The National Institute of Anthropology and History announced on Monday that an archaeologist named Leonardo Lopez Lujan found a 27-foot-long tunnel leading to a circular platform where dead rulers were cremated.
+
+Simplified version 2: The National Institute of Anthropology and History revealed on Monday that archaeologist Leonardo Lopez Lujan's team uncovered a 27-foot-long tunnel that led to a circular platform where rulers were cremated. 
+
+Chosen version: The National Institute of Anthropology and History announced on Monday that an archaeologist named Leonardo Lopez Lujan found a 27-foot-long tunnel leading to a circular platform where dead rulers were cremated.",10371b585b150a09cf43120b1dc447114f94b56ce447eba00488c6ff9d054ac4
+Sanders said he would like to see wealthy Americans and businesses pay more taxes .,"Rich Americans and big businesses should pay more taxes , he said .",Sanders said he would like to see wealthy Americans and businesses pay more taxes.,"1. Sanders wants rich Americans and businesses to pay higher taxes.
+2. Sanders wants wealthy Americans and businesses to pay increased taxes.
+
+Chosen version: Sanders wants rich Americans and businesses to pay higher taxes.","Simplified version 1: Sanders wants rich Americans and businesses to pay higher taxes.
+
+Simplified version 2: Sanders wants wealthy Americans and businesses to pay increased taxes.
+
+**Chosen version: Sanders wants rich Americans and businesses to pay higher taxes.**",c48b8f0549cdbd6d54f5da82340cc99b2e92e6b2974b0481ed1ddc78cc95dd45
+"The automotive industry here is still small compared with Detroit , and an increase of about 10,000 jobs has a small effect on the state 's large and diverse economy .","This number is still small when compared with Detroit , however . There are an estimated 326,000 automotive workers employed in Michigan .","The automotive industry here is still small compared with Detroit . An increase of about 10,000 jobs has a small effect on the state 's large and diverse economy .","Simplified version 1: The car industry here is smaller than Detroit's, and adding 10,000 jobs has a small impact on the state's big economy.
+
+Simplified version 2: The car industry here is not as big as Detroit's, so adding 10,000 jobs doesn't have a huge impact on the state's diverse economy.
+
+**Chosen version:**
+The car industry here is smaller than Detroit's, and adding 10,000 jobs has a small impact on the state's big economy.","Simplified version 1: The car industry here is smaller than Detroit, and adding 10,000 jobs has a small impact on the state's big economy.
+
+Simplified version 2: The car industry here is not as big as Detroit, so adding 10,000 jobs doesn't have a huge impact on the state's large economy.
+
+**Chosen version:**
+The car industry here is smaller than Detroit, and adding 10,000 jobs has a small impact on the state's big economy.",8e928489538945e4a437acf07d89c243e12822e31fb1a41ea32466be1bbb99ee
+The Japanese equivalent of the Peace Corps — Japan 's Overseas Cooperation Volunteers — will do the same .,The Japanese version of the Peace Corps — the Overseas Cooperation Volunteers — will do the same .,The Japanese equivalent of the Peace Corps is Japan 's Overseas Cooperation Volunteers .,"Simplified version 1: Japan's version of the Peace Corps, called Japan's Overseas Cooperation Volunteers, will also help.
+Simplified version 2: Japan's Overseas Cooperation Volunteers, similar to the Peace Corps, will do the same.
+
+Chosen version: Japan's Overseas Cooperation Volunteers, similar to the Peace Corps, will do the same.","Simplified version 1: Japan's Overseas Cooperation Volunteers are like the Peace Corps in Japan.
+
+Simplified version 2: Japan's Overseas Cooperation Volunteers are similar to the Peace Corps in Japan.
+
+**Chosen version: Japan's Overseas Cooperation Volunteers are like the Peace Corps in Japan.**",ee05e503a52aed4d2b8d55a62f16154ceb5eaebeabf344da4743ffc95aea7f36
+" But in this collection , we hear more of that militant voice . ","However , Cannon said , "" in this collection , we hear more of that militant voice . ""","But in this collection , we hear more of that militant voice .","Simplified version 1: In this collection, we hear more of the strong voice.
+
+Simplified version 2: In this collection, we hear more of the forceful voice.
+
+Final chosen version: In this collection, we hear more of the strong voice.","Simplified version 1: In this collection, we hear more of the strong voice.
+
+Simplified version 2: In this collection, we hear more of the forceful voice.
+
+**Chosen version: In this collection, we hear more of the strong voice.**",589424abfbe4ee5fecb65c5ea3ddc592d94de8334f9592fc23f9baeffdb61c6c
+he yelled .,his father Russell yelled .,He yelled .,"He shouted.
+
+OR
+
+He raised his voice. 
+
+I choose: He shouted.","He shouted.
+
+OR
+
+He raised his voice. 
+
+I choose: He shouted.",db5a86d717d3e42ae420082345d30214dc9bb35b27ffa15953ac38a505fa9238
+The songs appeared on the Billboard Hot 100 list from 1960 to 2010 .,The songs were from 1960 to 2010 .,The songs were on the Billboard Hot 100 list from 1960 to 2010 .,"Simplified version 1: The songs were on the Billboard Hot 100 list between 1960 and 2010.
+
+Simplified version 2: The songs were listed on the Billboard Hot 100 from 1960 to 2010.
+
+**Chosen version: The songs were listed on the Billboard Hot 100 from 1960 to 2010.**","Simplified version 1: The songs were on the Billboard Hot 100 list from 1960 to 2010.
+
+Simplified version 2: Songs were on the Billboard Hot 100 list between 1960 and 2010.
+
+**Chosen version: Songs were on the Billboard Hot 100 list between 1960 and 2010.**",44c1065ee6928d965fa32fb91294071dcb78910e46b101871149cf9257f1213c
+The response to the Paris attack should be to set the West on a path to dealing with the Middle East in a way that undermines the anti-Western attitudes that lead to indiscriminate violence of the kind we saw on the streets of Paris .,The response to the Paris attacks should be to set the West on a path to dealing with the Middle East . We must do so in a way that undermines the anti-Western attitudes that led to the violence we saw on the streets of Paris .,The response to the Paris attack should be to set the West on a path to dealing with the Middle East in a way that undermines the anti-Western attitudes that lead to indiscriminate violence.,"Simplified version 1: The reaction to the Paris attack should focus on addressing anti-Western attitudes in the Middle East to prevent similar violence.
+
+Simplified version 2: The response to the Paris attack should aim to tackle anti-Western sentiments in the Middle East to prevent such violence in the future.
+
+**Chosen version: The response to the Paris attack should aim to tackle anti-Western sentiments in the Middle East to prevent such violence in the future.**","Simplified version 1: The reaction to the Paris attack should focus on addressing anti-Western attitudes in the Middle East to prevent similar violence.
+
+Simplified version 2: The response to the Paris attack should aim to tackle anti-Western sentiments in the Middle East to prevent such violence in the future.
+
+Final chosen version: The response to the Paris attack should aim to tackle anti-Western sentiments in the Middle East to prevent such violence in the future.",2c9aa53338caf28b389dbf93f7a5607232a9344418ac904e4d90df905b9e8557
+"It 's really a good thing . ""","Hintch said sneaking in coding along with fun activities is "" really a good thing . ""","It 's really a good thing . ""","Simplified version 1: It's a positive thing.
+
+Simplified version 2: It's a good thing. 
+
+Chosen version: It's a good thing.","Simplified version 1: It's a positive thing.
+
+Simplified version 2: It's a good thing.
+
+Final chosen version: It's a good thing.",6215b6dc6acd3c4956db46e51c7e2ab196a52843e183660dc5d3a69bc7450c4f
+""" Being at Hopeworks makes me want to impart my skills , "" she said .",Gabrielle said that Hopeworks has helped her .,""" Being at Hopeworks makes me want to impart my skills ,"" she said .","1. ""Hopeworks inspires me to share my skills,"" she mentioned.
+2. ""Hopeworks motivates me to teach my skills,"" she stated.
+
+Chosen version: ""Hopeworks inspires me to share my skills,"" she mentioned.","Simplified version 1: ""Hopeworks inspires me to share my skills,"" she said.
+
+Simplified version 2: ""Hopeworks makes me feel like teaching my skills,"" she said.
+
+**Chosen version: ""Hopeworks inspires me to share my skills,"" she said.**",c17dd00671c10c8ed819895739a174c4dba6733dbfa5e365d0697a00d3c56fa6
+"Many students said the Lovato concert was a good move for Clinton , but they were not all convinced .",Many students said the Lovato concert was a good move for Clinton . Not all of them were convinced .,Many students said the Lovato concert was a good move for Clinton .,"Simplified version 1: Some students thought the Lovato concert was a good idea for Clinton, but not everyone was sure.
+
+Simplified version 2: Some students believed the Lovato concert was positive for Clinton, but not all were convinced.
+
+**Chosen version: Some students thought the Lovato concert was a good idea for Clinton, but not everyone was sure.**","Simplified version 1: Some students thought the Lovato concert was a good idea for Clinton, but not everyone was sure.
+
+Simplified version 2: Some students liked the Lovato concert for Clinton, but not all were convinced. 
+
+Chosen version: Some students thought the Lovato concert was a good idea for Clinton, but not everyone was sure.",13ea6eea521cbb47b13b2778c4bd89f914fab6cb31caf52d85b7868dfdb7864c
+"In the midst of it , rapper Common summarizes how words , melody and a protest merged during the civil-rights movement .",Music has been a big part of the struggle for civil rights for a long time .,"In the middle of it , rapper Common summarizes how words , melody and a protest merged during the civil-rights movement .","Simplified version 1: Rapper Common talks about how words, melody, and protest came together during the civil rights movement.
+
+Simplified version 2: Rapper Common explains how words, melody, and protest combined in the civil rights movement.
+
+**Chosen version: Rapper Common talks about how words, melody, and protest came together during the civil rights movement.**","Simplified version 1: Rapper Common talks about how words, melody, and protest came together during the civil rights movement.
+
+Simplified version 2: Rapper Common explains how words, melody, and protest combined in the civil rights movement.
+
+**Chosen version: Rapper Common talks about how words, melody, and protest came together during the civil rights movement.**",6d4ccae1d65b9e33ac1253aed2e321aaa7ba4bdfcf19e37c966d9b0ba5e44a3f
+"He is the first to market a simplified version of the tool to the public , a project that , for now , is not dangerous .",Zayner is the first to sell a gene-changing tool to regular people . His set is not dangerous .,He is the first to market a simplified version of the tool to the public .,"Simplified version 1: He is the first to release a basic version of the tool to the public, a project that is currently safe.
+
+Simplified version 2: He is the first to introduce a simple tool to the public, a project that is not risky at the moment.
+
+**Chosen version: He is the first to release a basic version of the tool to the public, a project that is currently safe.**","Simplified version 1: He is the first to release a basic version of the tool to the public, a project that is currently safe.
+
+Simplified version 2: He is the first to introduce a simple tool to the public, a project that is not risky at the moment.
+
+Final chosen version: He is the first to release a basic version of the tool to the public, a project that is currently safe.",9ec83328fbea94d7cdc4b92aba92f64abaa8727f6c0c99cc3b588b58bb8bb3f5
+Such activities provoked fears and intense distrust among the city 's white population .,The city 's whites soon became distrustful of the church .,Such activities caused intense distrust among the city 's white population .,"Simplified version 1: These activities made the white people in the city very scared and distrustful.
+
+Simplified version 2: These actions caused fear and distrust among the white residents of the city.
+
+**Chosen version: These actions made the white people in the city very scared and distrustful.**","Simplified version 1: These activities made the white people in the city very scared and distrustful.
+
+Simplified version 2: These actions caused fear and distrust among the white residents of the city.
+
+**Chosen version:**
+These actions made the white people in the city very scared and distrustful.",807119fcc131fd3b923cf189b1984e1ed88fece0663b20c95d28a9488bb2cc63
+"Areas of the brain involved in executive function are not fully developed and integrated in children , research has shown .",Research has shown that certain important areas of the brain are not fully developed and connected in children .,The brain areas involved in executive function are not fully developed and integrated in children .,"1. Research has shown that children's brains are not fully developed in areas related to executive function.
+
+2. Studies have found that children's brains are not fully developed in areas related to executive function. 
+
+I choose: Research has shown that children's brains are not fully developed in areas related to executive function.","1. Research has shown that children's brains are not fully developed in areas related to executive function.
+2. Studies have shown that children's brains lack full development in executive function areas. 
+
+I choose: Research has shown that children's brains are not fully developed in areas related to executive function.",378a896f8f6c00945d814d6636582ec65c8fa6d55eeb1cb594c4dc545d196623
+"At one point , he pointed to a front-page story in The New York Times and told his stunned colleagues that extraterrestrials had placed coded messages for him in the newspaper article .","At one point , he thought aliens were sending messages to him through the newspaper .","At one point , he pointed to a front-page story in The New York Times and told his colleagues that extraterrestrials had placed coded messages for him in the newspaper article .","Simplified version 1: He pointed to a front-page story in The New York Times and said aliens left secret messages for him in the article.
+
+Simplified version 2: He showed his colleagues a front-page story in The New York Times and claimed aliens had hidden messages for him in it.
+
+**Chosen version: He showed his colleagues a front-page story in The New York Times and claimed aliens had hidden messages for him in it.**","Simplified version 1: He pointed to a front-page story in The New York Times and said aliens left secret messages for him in the article.
+
+Simplified version 2: He showed a front-page story in The New York Times to his colleagues, claiming aliens had hidden messages for him in it.
+
+**Chosen version: He showed a front-page story in The New York Times to his colleagues, claiming aliens had hidden messages for him in it.**",2448eb8076d7de7c057e25bc19ed87c483499b250565bc8e874c839fad15ad2d
+Scientists explained different people saw different colors because of the different ways our brains analyze the information it gets from our eyes .,Scientists explained that different people saw different colors because of the way the brain deals with what the eye sees .,Scientists explained different people saw different colors because of the different ways our brains analyze the information it gets from our eyes.,"1. Scientists said people see different colors because our brains analyze eye information in various ways.
+2. Scientists said people see different colors due to how our brains process eye information.
+
+I choose: Scientists said people see different colors because our brains analyze eye information in various ways.","1. People see different colors because their brains analyze information from their eyes in various ways, according to scientists.
+
+2. Scientists say people see different colors because their brains process information from their eyes differently. 
+
+I choose: ""People see different colors because their brains process information from their eyes differently, according to scientists.""",abd9b930a75b92044666af6080c68bfa72af50ab636e16c5294a7a5e495480c6
+""" This is fantastic news .",Sunita said it was wonderful news .,""" This is great news .","Simplified version 1: ""This is great news.""
+
+Simplified version 2: ""This is amazing news.""
+
+Final chosen version: ""This is great news.""","Simplified version 1: ""This is great news.""
+
+Simplified version 2: ""This news is amazing.""
+
+Final chosen version: ""This is great news.""",af015d179ab544cfde58fbe349933f69c83ef39843bb21f267d954486471b8c5
+Cargo drones are particularly well suited to the so-called local-agent delivery model .,Cargo drones are particularly good for reaching them .,Cargo drones are good for the local-agent delivery model.,"Simplified version 1: Cargo drones work well for local-agent deliveries.
+Simplified version 2: Cargo drones are great for local-agent deliveries.
+
+Chosen version: Cargo drones are great for local-agent deliveries.","Simplified version 1: Cargo drones work well for local-agent deliveries.
+Simplified version 2: Cargo drones are great for local-agent deliveries.
+
+Chosen version: Cargo drones are great for local-agent deliveries.",117ba626432272a1147d319f4dbf75b188c34059a90136f8f6be7c9bf3049686
+"Some were completely intact , while others were fragmented .","Some were whole , while others were broken .","Some were intact , while others were fragmented .","Simplified version 1: Some were whole, others were broken.
+Simplified version 2: Some were complete, others were in pieces.
+
+Final chosen version: Some were whole, others were broken.","Simplified version 1: Some were whole, others were broken.
+Simplified version 2: Some were complete, others were in pieces.
+
+Chosen version: Some were whole, others were broken.",c66695eea14f17d597771518c795be959a393992c0e4c9f672452869e45991c4
+"Although most of us take friction for granted when we hit the stop pedal , many of its details are still a mystery .",Yet even scientists do not understand everything about why they happen .,Friction is a mystery .,"Simplified version 1: We often overlook friction when we press the brake, but many aspects of it remain unknown.
+
+Simplified version 2: While we usually don't think about it, there are still many things we don't know about friction when we step on the brake. 
+
+**Chosen version: We often overlook friction when we press the brake, but many aspects of it remain unknown.**","Simplified version 1: We often overlook friction when we press the brake pedal, but many aspects of it remain unknown.
+
+Simplified version 2: We usually don't think much about friction when we brake, but there are still many things we don't understand about it.
+
+Chosen version: We often overlook friction when we press the brake pedal, but many aspects of it remain unknown.",ab419ec2b453ff93d66854fdc0363e3f8916b27ef82dce68590d414062263f8f
+"In a rare interview , Chauvet described digging through narrow passageways and guiding a flashlight in the blackness until one of his fellow spelunkers came across "" the two lines of red ochre .","In an interview , Chauvet described finding the paintings . He told how he and the other explorers dug through narrow tunnels guided only by a flashlight until one of them spotted "" the two lines of red ochre .","Chauvet described digging through narrow passageways and guiding a flashlight in the blackness until one of his fellow spelunkers came across "" the two lines of red ochre .","Simplified version 1: In a rare interview, Chauvet talked about exploring tight passages with a flashlight until a fellow explorer found ""two red lines.""
+
+Simplified version 2: In a rare interview, Chauvet discussed searching through narrow passages with a flashlight until a fellow explorer discovered ""two red lines.""
+
+**Chosen version: In a rare interview, Chauvet talked about exploring tight passages with a flashlight until a fellow explorer found ""two red lines.""**","Chauvet talked about exploring tight tunnels with a flashlight until a fellow explorer found ""two red lines.""
+
+Chauvet described searching through narrow tunnels with a flashlight until a friend found ""two red lines.""",0a6fc5f2c2195287988bd241188ad8adc46da5d2837a85e0c765897df8a998ac
+"Alternatively , the chloroplasts might consent to keep busy because they are getting carbon dioxide or something else out of the deal , like the algae living in the salamanders ' eggs — until the slugs double-cross them and digest the plastids properly .","If so , the slugs might be getting some extra oxygen . In turn , the chloroplasts might be getting carbon dioxide from the slug .","The chloroplasts might keep busy because they are getting carbon dioxide or something else out of the deal , like the algae living in the salamanders ' eggs — until the slugs double-cross them and digest the plastids properly .","Simplified version 1: The chloroplasts may stay active to get carbon dioxide or other benefits, like the algae in salamanders' eggs. But the slugs can betray them and digest the plastids.
+
+Simplified version 2: The chloroplasts might stay busy to get carbon dioxide or other benefits, like the algae in salamanders' eggs. However, the slugs can deceive them and digest the plastids. 
+
+Chosen version: The chloroplasts may stay active to get carbon dioxide or other benefits, like the algae in salamanders' eggs. But the slugs can betray them and digest the plastids.","Simplified version 1: The chloroplasts may stay active to get carbon dioxide or other benefits, like the algae in salamanders' eggs. But the slugs can betray them and digest the plastids.
+
+Simplified version 2: The chloroplasts might stay busy to get carbon dioxide or other benefits, like the algae in salamanders' eggs. However, the slugs can deceive them and digest the plastids. 
+
+Chosen version: The chloroplasts may stay active to get carbon dioxide or other benefits, like the algae in salamanders' eggs. But the slugs can betray them and digest the plastids.",c8892f79ec297b6da376a7f81026bbe8bf84a05bcd56441447ff552f5fc76875
+"The eels ' electricity-producing organ has both a positive and a negative end , with the positive end at the head and the negative end in the tail .",Both the head and the tail help an eel send out electricity .,The eels ' electricity-producing organ has both a positive and a negative end . The positive end is at the head and the negative end is in the tail .,"Simplified version 1: The eels have an organ that produces electricity. It has a positive end at the head and a negative end at the tail.
+
+Simplified version 2: Eels have an organ that makes electricity. The positive end is at the head, and the negative end is at the tail.
+
+**Chosen version: Eels have an organ that makes electricity. The positive end is at the head, and the negative end is at the tail.**","Simplified version 1: The eels have an organ that makes electricity. It has a positive end at the head and a negative end at the tail.
+
+Simplified version 2: Eels have an organ that produces electricity. The positive end is at the head, and the negative end is at the tail.
+
+**Chosen version:**
+Eels have an organ that produces electricity. The positive end is at the head, and the negative end is at the tail.",4a2f7b1ee95ebeb6cda026d577f8fda04b4c6f288898e7ddcbde37234ebe6b48
+"More important , according to Schmitt , young African-Americans can face a measure of discrimination when they try to get their foot in the door , sometimes losing job opportunities to white applicants .","More importantly , employers may treat them unfairly because they are black .","Young African-Americans can face discrimination when they try to get their foot in the door , sometimes losing job opportunities to white applicants .","Simplified version 1: Schmitt says young African-Americans may face discrimination when trying to get a job, losing opportunities to white applicants.
+
+Simplified version 2: Schmitt notes that young African-Americans may experience discrimination in job applications, losing out to white candidates. 
+
+**Chosen version: Schmitt says young African-Americans may face discrimination when trying to get a job, losing opportunities to white applicants.**","Simplified version 1: Schmitt says young African-Americans may face discrimination when trying to get a job, losing opportunities to white applicants.
+
+Simplified version 2: Schmitt says young African-Americans can be discriminated against when applying for jobs, losing out to white applicants. 
+
+**Chosen version: Schmitt says young African-Americans may face discrimination when trying to get a job, losing opportunities to white applicants.**",6c771d7556613489ca632a8f3866bf5a3f78a5cab8751a779f2932c9ac1330b0
+"It is already widely understood that obesity — the condition of being extremely overweight — poses serious health risks , including heart disease and diabetes .",An obese person is someone who is extremely overweight . Scientists have long known that obesity is bad for your health .,"It is already widely understood that obesity — the condition of being extremely overweight — poses serious health risks , including heart disease and diabetes .","Simplified version 1: Obesity, being very overweight, can lead to serious health problems like heart disease and diabetes.
+
+Simplified version 2: Obesity, or extreme overweight, can cause major health issues such as heart disease and diabetes.
+
+**Chosen version: Obesity, being very overweight, can lead to serious health problems like heart disease and diabetes.**","Simplified version 1: Obesity, being very overweight, can lead to serious health problems like heart disease and diabetes.
+
+Simplified version 2: Obesity, or extreme overweight, can cause major health issues such as heart disease and diabetes.
+
+Chosen version: Obesity, being very overweight, can lead to serious health problems like heart disease and diabetes.",43cfde8f9b0167e1bd2b6febcbb068e1e13c202ef251d08ec401abfda8e1802c
+"Without a major change in how teachers are taught , America will continue down the same path , raising generation after generation of students who do not understand what it means to be an American , who equate freedom of speech with "" selfies , "" who believe freedom of religion requires purging religion from the public square , who think our Founding Fathers — denigrated in popular culture as dead old white men — are irrelevant .","Without a major change in how teachers are taught , America will continue down the same path . We 'll continue to raise children who do not understand what it means to be an American . These kids will equate freedom of speech with "" selfies "" and believe freedom of religion requires removing religion from public life . Our Founding Fathers are already belittled in popular culture as dead old white men .","Without a major change in how teachers are taught , America will continue down the same path , raising generation after generation of students who do not understand what it means to be an American , who equate freedom of speech with "" selfies "" , who believe freedom of religion requires purging religion from the public square , who think our Founding Fathers — denigrated in popular culture as dead .","Simplified version 1: If teachers are not taught differently, America will keep producing students who don't grasp American values, confuse freedom of speech with selfies, and see our Founding Fathers as irrelevant.
+
+Simplified version 2: Without changing how teachers are trained, America will keep creating students who don't understand American values, mix up freedom of speech with selfies, and think our Founding Fathers are unimportant. 
+
+**Chosen version:**
+If teachers are not taught differently, America will keep producing students who don't grasp American values, confuse freedom of speech with selfies, and see our Founding Fathers as irrelevant.","Simplified version 1: If teachers are not taught differently, America will keep producing students who don't grasp American values, confuse freedom of speech with selfies, and see our Founding Fathers as irrelevant.
+
+Simplified version 2: Without changing how teachers are trained, America will keep creating students who don't understand American values, mix up freedom of speech with selfies, and think our Founding Fathers are unimportant. 
+
+**Chosen version:**
+If teachers are not taught differently, America will keep producing students who don't grasp American values, confuse freedom of speech with selfies, and see our Founding Fathers as irrelevant.",a4becdb4659349beb590028e7802612e526db255efd93065a2a75ad7aa2d4435
+""" You can take any part of the car and talk about how it was engineered and why it 's designed the way it is to interact with the rest of the race car , and there 's a physics or a math or a science lesson in any of that , "" he said .","You can take any part of a race car and talk about its design , he said . "" There 's a physics or a math or a science lesson in any of that . """,""" You can take any part of the car and talk about how it was engineered and why it 's designed the way it is to interact with the rest of the race car , and there 's a physics or a math or a science lesson in any of that , "" he said .","Simplified version 1: ""You can discuss any car part, its engineering, design, and how it interacts with the race car. There's a lesson in physics, math, or science in all of that,"" he mentioned.
+
+Simplified version 2: ""You can talk about any car part, its engineering, design, and how it works with the race car. There's a lesson in physics, math, or science in all of that,"" he explained.
+
+**Chosen version:**
+""You can discuss any car part, its engineering, design, and how it interacts with the race car. There's a lesson in physics, math, or science in all of that,"" he mentioned.","Simplified version 1: ""You can discuss any car part, explaining its engineering and design to work with the race car. There's a physics or science lesson in each part,"" he mentioned.
+
+Simplified version 2: ""You can pick any car component, delve into its engineering and design for interaction with the race car. Each part offers a physics or science lesson,"" he explained.
+
+**Chosen version:**
+""You can discuss any car part, explaining its engineering and design to work with the race car. There's a physics or science lesson in each part,"" he mentioned.",385443fe046528018a612d3a2012669b9722469b90d7d0890cf8c42e496c5cd4
+ It 's not unusual for people to talk about their accidents or near accidents along with the fun times they 've had . , It 's not unusual for people to talk about their accidents or near accidents . ,It 's not unusual for people to talk about their accidents or near accidents along with the fun times they 've had .,"1. People often share stories about their accidents or close calls along with their good times.
+2. People commonly talk about their accidents or close calls along with their fun experiences.
+
+Chosen version: People often share stories about their accidents or close calls along with their good times.","Simplified version 1: People often share stories about accidents or close calls along with their good times.
+
+Simplified version 2: People commonly discuss accidents or close calls along with their enjoyable experiences.
+
+**Chosen version: People often share stories about accidents or close calls along with their good times.**",5e1a729f0730079a5d13590ee7972727ec73a7f32fcb68897036303cb3f50abd
+The National Museum of African American History and Culture has been working on the project with five other groups .,"The National Museum of African American History and Culture has been working on the "" Slave Wreck Project "" with five other groups .",The National Museum of African American History and Culture has been working on the project with five other groups.,"Simplified version 1: The National Museum of African American History and Culture is collaborating with five other groups on a project.
+
+Simplified version 2: The National Museum of African American History and Culture is teaming up with five other groups for a project.
+
+Chosen version: The National Museum of African American History and Culture is collaborating with five other groups on a project.","Simplified version 1: The museum is collaborating with five other groups on the project.
+
+Simplified version 2: The museum is working on the project with five other groups. 
+
+**Chosen version: The museum is collaborating with five other groups on the project.**",b1018e2dd0d8e9caf5db02e7996ff0ff67b2ba906e933b706f897c914b459319
+"When she was 10 , her family moved to the United States without legal permission .","When she was 10 , her family moved to the United States . They came without permission .","When she was 10 , her family moved to the United States without legal permission .","Simplified version 1: When she was 10, her family moved to the United States illegally.
+
+Simplified version 2: At age 10, her family moved to the United States without permission. 
+
+**Chosen version: When she was 10, her family moved to the United States illegally.**","Simplified version 1: When she was 10, her family moved to the United States illegally.
+
+Simplified version 2: At age 10, her family moved to the United States without permission. 
+
+**Chosen version: When she was 10, her family moved to the United States illegally.**",fac00c77e00e99a3d1d05c9537928be862e2ca685015ecbd31f5d2d19e9a9409
+Lapchick said he thinks legislative action would be more compelling than any punishment that the NCAA could hand out .,Lapchick said a NCAA rule would not be good enough .,Lapchick said he thinks legislative action would be more compelling than any punishment that the NCAA could hand out.,"1. Lapchick believes that legislative action is more powerful than any punishment the NCAA can give.
+2. Lapchick thinks laws are stronger than NCAA penalties.
+
+**Chosen version:**
+Lapchick believes that legislative action is more powerful than any punishment the NCAA can give.","Simplified version 1: Lapchick believes that legislative action is more powerful than any punishment from the NCAA.
+
+Simplified version 2: Lapchick thinks laws are stronger than NCAA penalties. 
+
+Chosen version: Lapchick believes that legislative action is more powerful than any punishment from the NCAA.",2053492ba2e3d959928f1e4f1aa30a27ffa7993741f39540e4da47a3e6ca065a
+ I get to work with people who make a difference every single day . ,""" I get to work with people who make a difference every single day , "" Nagle says .",I get to work with people who make a difference every day .,"Simplified version 1: I work with people who make a difference every day.
+
+Simplified version 2: I work with people who make a difference daily.
+
+Chosen version: I work with people who make a difference daily.","Simplified version 1: I work with people who make a difference every day.
+
+Simplified version 2: I work with people who make a difference daily.
+
+**Chosen version: I work with people who make a difference every day.**",c3c0ce98818e50babdff433766a059d66c6ff4451d8c3c0ca78e7a3fbc6ed78e
+"Splashes of dry paint spatter the floor , and incense fills the air .",There are spots of dry paint on the floor and a set of barbells nearby .,"Splashes of dry paint spatter the floor , and incense fills the air .","1. Paint splatters on the floor, and incense scents the air.
+2. Dry paint splashes on the floor, and incense fills the air.
+
+Chosen version: Paint splatters on the floor, and incense scents the air.","Simplified version 1: Paint splatters on the floor, and incense is in the air.
+
+Simplified version 2: Dry paint splashes on the floor, and incense fills the air.
+
+Chosen version: Paint splatters on the floor, and incense is in the air.",26c0dee892b891c45ad8132a88771fa30ec8b4d9987e72794d8c969a67f3f887
+She recalls a letter written to Lincoln by a Louisiana teacher who begged the president for a job up north .,She spoke about a letter written to Lincoln by a Louisiana teacher . The man begged the president for a job up North .,She recalls a letter written to Lincoln by a Louisiana teacher who begged the president for a job up north.,"Simplified version 1: A Louisiana teacher wrote a letter to Lincoln asking for a job in the North.
+
+Simplified version 2: A teacher from Louisiana wrote to Lincoln, asking for a job in the North.
+
+**Chosen version: A teacher from Louisiana wrote to Lincoln, asking for a job in the North.**","Simplified version 1: A Louisiana teacher wrote a letter to Lincoln asking for a job in the North.
+
+Simplified version 2: A teacher from Louisiana wrote to Lincoln, asking for a job in the North.
+
+**Chosen version: A teacher from Louisiana wrote to Lincoln, asking for a job in the North.**",7222c283c00807b77751dfe440ad164b5e39f8fa9b8b0480939b789174f80a1d
+"Before , they would be wandering the room and not as focused , but now , these new desks let them work where they want to work . ""","The new fit workstations let the students work where they want , she said .","Before , they would be wandering the room and not as focused , but now , these new desks let them work where they want to work . ""","Simplified version 1: Before, they used to wander around the room and were not as focused. Now, with these new desks, they can work wherever they want.
+
+Simplified version 2: Previously, they roamed the room and lacked focus. Now, thanks to the new desks, they can work wherever they please.
+
+**Chosen version:**
+Before, they used to wander around the room and were not as focused. Now, with these new desks, they can work wherever they want.","Simplified version 1: Before, they used to wander around the room and were not as focused. Now, with these new desks, they can work wherever they want.
+
+Simplified version 2: Previously, they roamed the room and lacked focus. Now, thanks to the new desks, they can work wherever they please.
+
+**Chosen version:**
+Before, they used to wander around the room and were not as focused. Now, with these new desks, they can work wherever they want.",c99a0049588dfe7165a237ba4703e96483442485e2ef4dec47076df7375c21e6
+"Alan Durning , a founder of Seattle 's Sightline Institute and an author of the initiative , called those arguments a stretch .",Alan Durning is an author of the Seattle ballot measure .,"Alan Durning , a founder of Seattle 's Sightline Institute , called those arguments a stretch .","Simplified version 1: Alan Durning, who helped start the Sightline Institute in Seattle and co-authored the initiative, said those arguments were a bit of a stretch.
+
+Simplified version 2: Alan Durning, a co-founder of Seattle's Sightline Institute and author of the initiative, thought those arguments were a stretch. 
+
+Chosen version: Alan Durning, a co-founder of Seattle's Sightline Institute and author of the initiative, thought those arguments were a stretch.","Simplified version 1: Alan Durning, a founder of Seattle's Sightline Institute and an author of the initiative, said those arguments were a bit of a stretch.
+
+Simplified version 2: Alan Durning, who helped start Seattle's Sightline Institute and wrote the initiative, thought those arguments were a bit of a stretch.
+
+**Chosen version:**
+Alan Durning, a founder of Seattle's Sightline Institute and an author of the initiative, said those arguments were a bit of a stretch.",0cf5105d83fe95d48fe87225000cb6356e4658312bec937b3421600e03865d98
+"The researchers gathered 170 2- to 4-year-olds , about half of whom were described by parents as choosy .",The researchers brought together 170 2- to 4-year-olds . Half of them were described by parents as being choosy .,The researchers gathered 170 2- to 4-year-olds . About half of them were described by parents as choosy .,"1. The researchers collected 170 children aged 2 to 4, with half being picky according to their parents.
+2. Researchers studied 170 kids aged 2 to 4, with half being labeled picky by their parents.
+
+I choose: Researchers studied 170 kids aged 2 to 4, with half being labeled picky by their parents.","Simplified version 1: The researchers collected 170 children aged 2 to 4, with half being picky eaters according to their parents.
+
+Simplified version 2: Researchers studied 170 children aged 2 to 4, with half being described as picky by their parents.
+
+**Chosen version:**
+The researchers collected 170 children aged 2 to 4, with half being picky eaters according to their parents.",373531aa64bc7e9d16115bc6259818ab15cffac947d52a4419ed9c6030508b66
+"In November , Bond wrote a letter to the superintendent , school board president and other officials .","In November , Bond wrote a letter to the school .","In November , Bond wrote a letter to the superintendent , school board president and other officials .","Simplified version 1: In November, Bond wrote a letter to the school superintendent and other officials.
+
+Simplified version 2: In November, Bond wrote a letter to the school superintendent and the school board president. 
+
+Chosen version: In November, Bond wrote a letter to the school superintendent and the school board president.","Simplified version 1: In November, Bond wrote a letter to the superintendent and school board president.
+
+Simplified version 2: In November, Bond wrote a letter to the school officials. 
+
+**Chosen version: In November, Bond wrote a letter to the superintendent and school board president.**",cee57fc7315f770976eef67789bf48f3f3651ebca9fe58b6e560a7154212e49e
+"It amounts to as much as $ 100 extra a week , and has lifted farmworkers ' salaries from about $ 10,000 to $ 17,000 a year .","It comes to around $ 100 extra a week . Workers now make $ 17,000 a year .","It amounts to as much as $ 100 extra a week , and has lifted farmworkers ' salaries from about $ 10,000 to $ 17,000 a year .","Simplified version 1: It means an additional $100 per week, raising farmworkers' yearly salaries from $10,000 to $17,000.
+
+Simplified version 2: It adds up to $100 more each week, increasing farmworkers' annual pay from $10,000 to $17,000. 
+
+**Chosen version: It means an additional $100 per week, raising farmworkers' yearly salaries from $10,000 to $17,000.**","Simplified version 1: It means an additional $100 per week, raising farmworkers' salaries from $10,000 to $17,000 annually.
+
+Simplified version 2: It adds up to $100 more each week, increasing farmworkers' pay from $10,000 to $17,000 per year.
+
+**Chosen version: It adds up to $100 more each week, increasing farmworkers' pay from $10,000 to $17,000 per year.**",11c0693274ce47b116f0d2a3d280ce94b9a0fa6ded8e8ee6cb3f7580d9be4b0b
+The findings are significant for cancer research because cancer cells are kept alive by DNA repair mechanisms .,"Cancer grows inside the body . When DNA is fixed , it helps the cancer stay alive . The DNA of the cancer is fixed too .",The findings are important for cancer research because cancer cells are kept alive by DNA repair mechanisms.,"Simplified version 1: The discovery is important for cancer research as cancer cells rely on DNA repair mechanisms to survive.
+
+Simplified version 2: The results are crucial for cancer research since cancer cells need DNA repair mechanisms to stay alive.
+
+**Chosen version: The discovery is important for cancer research as cancer cells rely on DNA repair mechanisms to survive.**","Simplified version 1: The results are important for cancer research as cancer cells rely on DNA repair mechanisms to survive.
+
+Simplified version 2: The discovery is crucial for cancer research since cancer cells need DNA repair mechanisms to stay alive.
+
+**Chosen version: The results are important for cancer research as cancer cells rely on DNA repair mechanisms to survive.**",d94dcbdb7628953c1657c75b6a65b1cebfbd0486a80c8c21e788d3c9c62452b5
+Mark is a retired astronaut .,Mark Kelly is a retired astronaut .,Mark is a retired astronaut .,"1. Mark used to be an astronaut.
+2. Mark was once an astronaut.
+
+Chosen version: Mark used to be an astronaut.","Simplified version 1: Mark used to be an astronaut.
+
+Simplified version 2: Mark was an astronaut before retiring.
+
+**Chosen version: Mark used to be an astronaut.**",5a7ba8640e526689b748e4659e28e933ad928e52df5354e423996ae6e468733c
+"Humbaba emerges , not as a barbarian ogre , and but as a foreign ruler entertained with exotic music at court in the manner of Babylonian kings .","In the original story , Humbaba was an ogre . The new tablets tell us that he is not an ogre . Instead , Humbaba is a king from another country . He listens to music at another king 's court .",Humbaba emerges as a foreign ruler .,"Simplified version 1: Humbaba appears as a foreign ruler enjoying exotic music at court like Babylonian kings.
+
+Simplified version 2: Humbaba is seen as a foreign ruler entertained with exotic music at court, similar to Babylonian kings.
+
+Chosen version: Humbaba appears as a foreign ruler enjoying exotic music at court like Babylonian kings.","Simplified version: Humbaba appears as a foreign ruler enjoying exotic music at court, similar to Babylonian kings.",157aa41e29cf558ccf894e135cf5ec4adfe6b83c949613ed1d42768aeccc9747
+They are flown by computers on board or a person on the ground .,A person on the ground can fly it .,They are flown by computers on board or a person on the ground.,"Simplified version 1: They are controlled by computers on board or a person on the ground.
+
+Simplified version 2: Computers on board or a person on the ground control them.
+
+**Chosen version: Computers on board or a person on the ground control them.**","Simplified version 1: They are controlled by computers on board or a person on the ground.
+
+Simplified version 2: They are operated by computers on board or a person on the ground.
+
+**Chosen version: They are controlled by computers on board or a person on the ground.**",3dba2c4beb0e37d6f73bc4b2d0e210380c9a6a23a5e23dc537c7f378ad00e3d7
+"All of it will be compared with test results from his brother , a retired astronaut .",All of the information collected about Scott Kelly during his year in space will be compared with test results from his brother 's year on Earth .,"All of it will be compared with test results from his brother , a retired astronaut .","Simplified version 1: It will be compared with test results from his brother, a retired astronaut.
+
+Simplified version 2: It will be compared with test results from his brother, who used to be an astronaut.
+
+**Chosen version: It will be compared with test results from his brother, who used to be an astronaut.**","Simplified version 1: It will be compared with test results from his brother, a retired astronaut.
+
+Simplified version 2: It will be compared with test results from his brother, who used to be an astronaut.
+
+**Chosen version: It will be compared with test results from his brother, a retired astronaut.**",d320474a36288db3f83f2da593b0f7b77027ccac9e1f677f78477f2616fea276
+"As El Nino bears down on California this year , worse is expected .","As El Nino hits California this year , worse is expected .","As El Nino bears down on California this year , worse is expected .","Simplified version 1: California is expecting worse conditions due to El Nino this year.
+
+Simplified version 2: California is bracing for worse impacts from El Nino this year. 
+
+**Chosen version: California is bracing for worse impacts from El Nino this year.**","Simplified version 1: California is expecting worse conditions due to El Nino this year.
+
+Simplified version 2: California is bracing for worse weather because of El Nino this year.
+
+**Chosen version: California is bracing for worse weather because of El Nino this year.**",224a6c013c0b63efe8a3b3c881515fe36c1495f5c4958d3efe4f5671461b2643
+ The parents ought to be getting out there yelling at the elected officials and telling them they 've made sledding more dangerous for their kids . ,""" Parents ought to be getting out there yelling , "" law professor Craig Lawson said . The city has "" made sledding more dangerous "" for kids .",The parents should be yelling at the elected officials .,"Simplified version 1: Parents should speak up to elected officials about making sledding more dangerous for their kids.
+
+Simplified version 2: Parents need to tell elected officials they've made sledding riskier for their children.
+
+**Chosen version:**
+Parents should speak up to elected officials about making sledding more dangerous for their kids.","Simplified version 1: Parents should speak up to elected officials about making sledding safer for their kids.
+
+Simplified version 2: Parents need to tell elected officials that they've made sledding more dangerous for their kids.
+
+Chosen version: Parents should speak up to elected officials about making sledding safer for their kids.",bf152bc4acbd87f3c470b3138d2947deefae479596ed27fd78e3f09bbaf0efce
+""" For 100 years , automobiles have been a mechanical engineering industry , "" said the center 's director , Dragos Maciuca , who on his morning commute drives past a nearby research center of German automotive electronics and parts supplier Bosch .","Dragos Maciuca , director of Ford 's new center , once worked for Apple . He said that for the first 100 years that there were cars , manufacturing them was simple .","Dragos Maciuca said , "" For 100 years , automobiles have been a mechanical engineering industry . "" He drives past a nearby research center of German automotive electronics and parts supplier Bosch .","Simplified version 1: ""The director of the center, Dragos Maciuca, mentioned that automobiles have been a part of mechanical engineering for a century. He drives by a Bosch research center on his way to work.""
+
+Simplified version 2: ""The center's director, Dragos Maciuca, noted that cars have been part of mechanical engineering for 100 years. He passes a Bosch research center on his commute."" 
+
+**Chosen version:**
+""The director of the center, Dragos Maciuca, mentioned that automobiles have been a part of mechanical engineering for a century. He drives by a Bosch research center on his way to work.""","Simplified version 1: ""The director of the center, Dragos Maciuca, mentioned that automobiles have been a part of mechanical engineering for a century. He drives by a Bosch research center on his way to work.""
+
+Simplified version 2: ""The center's director, Dragos Maciuca, noted that cars have been part of mechanical engineering for 100 years. He passes a Bosch research center on his daily commute."" 
+
+Chosen version: ""The director of the center, Dragos Maciuca, mentioned that automobiles have been a part of mechanical engineering for a century. He drives by a Bosch research center on his way to work.""",308457e633d2dedc851650598e474cbe9370fa9c829b49de7efceb3ed303e505
+"Hours before his rally , the chairwoman of the Democratic National Committee , Rep. Debbie Wasserman Schultz of Florida , criticized Rubio as just another establishment Republican with no new ideas .","Before the announcement , Democratic lawmaker Debbie Wasserman Schultz criticized him . She argued that he would not bring the change he was promising .",Debbie Wasserman Schultz criticized Rubio as just another establishment Republican with no new ideas .,"Simplified version 1: Before his rally, the chairwoman of the Democratic National Committee, Rep. Debbie Wasserman Schultz from Florida, called Rubio a typical establishment Republican without fresh ideas.
+
+Simplified version 2: Just before his rally, Rep. Debbie Wasserman Schultz, the chairwoman of the Democratic National Committee from Florida, criticized Rubio as a regular establishment Republican lacking new ideas.
+
+**Chosen version:**
+Before his rally, the chairwoman of the Democratic National Committee, Rep. Debbie Wasserman Schultz from Florida, called Rubio a typical establishment Republican without fresh ideas.","Simplified version 1: Before his rally, the chairwoman of the Democratic National Committee, Rep. Debbie Wasserman Schultz from Florida, called Rubio a typical establishment Republican without fresh ideas.
+
+Simplified version 2: Just before his rally, Rep. Debbie Wasserman Schultz, the chairwoman of the Democratic National Committee from Florida, criticized Rubio as a regular establishment Republican lacking new ideas.
+
+**Chosen version:**
+Before his rally, the chairwoman of the Democratic National Committee, Rep. Debbie Wasserman Schultz from Florida, called Rubio a typical establishment Republican without fresh ideas.",1f7b79829b3a676b25c79c39f3d398573647becd7c6a9072a63600a4161c2e2e
+He worries that the kits will help more people to become familiar with gene editing .,He worries that the tools will make gene changing too easy .,He worries that the kits will help more people to become familiar with gene editing.,"Simplified version 1: He is concerned that the kits will make more people familiar with gene editing.
+Simplified version 2: He is worried that the kits will introduce more people to gene editing.
+
+Final chosen version: He is worried that the kits will introduce more people to gene editing.","Simplified version 1: He is concerned that the kits will make more people comfortable with gene editing.
+
+Simplified version 2: He is afraid the kits will make more people get used to gene editing.
+
+**Chosen version: He is concerned that the kits will make more people comfortable with gene editing.**",3d708ea96d075111aa162048ebc1a3e052c7034a20be1bfa21a267a65ea6ddf6
+And it would set up a national volunteer working group to advise the federal government on marine disease emergencies .,It also would set up a national volunteer working group to advise the federal government on marine disease emergencies .,And it would set up a national volunteer working group to advise the federal government on marine disease emergencies.,"1. It would create a team of volunteers to help the government during marine disease emergencies.
+2. It would establish a national volunteer group to give advice to the government on marine disease emergencies.
+
+Chosen version: It would create a team of volunteers to help the government during marine disease emergencies.","1. It would create a team of volunteers to help the government during marine disease emergencies.
+2. It would establish a national volunteer group to give advice to the government on marine disease emergencies.
+
+Chosen version: It would create a team of volunteers to help the government during marine disease emergencies.",a2a6085ada00549abf24d9101aa9633c85e52e65b4d7e4b850a3098b8e3c6945
+"At the Overland Park hill where Russell Pope 's family was sledding Monday , safety measures have also been taken .",Overland Park has also tried to make sledding safer .,"At the Overland Park hill where Russell Pope 's family was sledding Monday , safety measures have been taken .","Simplified version 1: Safety measures were taken at the Overland Park hill where Russell Pope's family went sledding on Monday.
+
+Simplified version 2: Safety measures were in place at the Overland Park hill where Russell Pope's family sled on Monday.
+
+**Chosen version: Safety measures were taken at the Overland Park hill where Russell Pope's family went sledding on Monday.**","Simplified version 1: Safety measures were taken at the Overland Park hill where Russell Pope's family went sledding on Monday.
+
+Simplified version 2: Safety measures were in place at the Overland Park hill where Russell Pope's family sled on Monday.
+
+**Chosen version: Safety measures were taken at the Overland Park hill where Russell Pope's family went sledding on Monday.**",56860889b56df41c111a56c66233f9f15b3035a25b5fa9d61588af31e70ab467
+It is one of several groups trying to get the extra sugar added to food labels .,WASHINGTON — Extra sugar is added to many foods we eat . It is one of several groups trying to get the added sugar on food labels .,It is one of several groups trying to get the extra sugar added to food labels.,"Simplified version 1: It is one of many groups working to include added sugar on food labels.
+
+Simplified version 2: It is one of several groups pushing for added sugar to be listed on food labels.
+
+**Chosen version: It is one of several groups pushing for added sugar to be listed on food labels.**","Simplified version 1: It is one of many groups working to include added sugar on food labels.
+
+Simplified version 2: It is one of several groups pushing for added sugar to be listed on food labels.
+
+**Chosen version: It is one of several groups pushing for added sugar to be listed on food labels.**",9ddbea3e2b7302faf93b51d86577723cae0c5d8387237c7a37f45b2b43dbeb10
+The organization now relies on ping-pong balls to keep the draft fair for all 14 teams .,Now the NBA uses ping-pong balls . They say it is the best way to keep things fair .,The organization uses ping-pong balls to keep the draft fair for all 14 teams.,"Simplified version 1: The organization uses ping-pong balls to ensure a fair draft for all 14 teams.
+Simplified version 2: The organization uses ping-pong balls to make sure the draft is fair for all 14 teams.
+
+Chosen version: The organization uses ping-pong balls to ensure a fair draft for all 14 teams.","Simplified version 1: The organization uses ping-pong balls to ensure a fair draft for all 14 teams.
+Simplified version 2: Ping-pong balls are used by the organization to make the draft fair for all 14 teams.
+
+Chosen version: The organization uses ping-pong balls to ensure a fair draft for all 14 teams.",bc2c6ccbb0bb14e8c9d2faf0ac2a68fc0d49aa6109c331640e568b203b774993
+Free-range hens get about 2 square feet of outdoor space .,Free-range hens get a little bit more space outdoors .,Free-range hens get about 2 square feet of outdoor space.,"1. Free-range hens have around 2 square feet of outdoor area.
+2. Free-range hens have about 2 square feet of outdoor space.
+
+Chosen version: Free-range hens have about 2 square feet of outdoor space.",Free-range hens have 2 square feet of outdoor space.,f573dac251c16352ce11d0d8b02cec26dbf2ed9e1997f2d4292ea61cfa19612a
+"He rationed his food and water , drinking just a pint a day for long stretches , and collected rainwater .",He collected rainwater whenever he could .,"He rationed his food and water , drinking just a pint a day for long stretches , and collected rainwater .","Simplified version 1: He limited his food and water intake, drinking only a pint a day for long periods, and gathered rainwater.
+
+Simplified version 2: He controlled how much he ate and drank, having just a pint daily for a while, and stored rainwater.
+
+Chosen version: He limited his food and water intake, drinking only a pint a day for long periods, and gathered rainwater.","Simplified version 1: He limited his food and water intake, drinking only a pint daily for extended periods, and gathered rainwater.
+
+Simplified version 2: He controlled how much he ate and drank, having just a pint each day for a long time, and saved rainwater. 
+
+Chosen version: He limited his food and water intake, drinking only a pint daily for extended periods, and gathered rainwater.",193778725c5ba4bfe643e9e57dae7bbbf533037b097525161169f565a6c3fad9
+"However , another member of the church , a slave named George Wilson , told his master about the plot .","However , a slave named George Wilson told his master about the plot .",George Wilson told his master about the plot .,"Simplified version 1: Another church member, a slave named George Wilson, informed his master about the plot.
+
+Simplified version 2: A church member named George Wilson, who was a slave, told his owner about the plan. 
+
+Chosen version: Another church member, a slave named George Wilson, informed his master about the plot.","Simplified version 1: Another church member, a slave named George Wilson, informed his master about the plot.
+
+Simplified version 2: A church member named George Wilson, who was a slave, told his owner about the plan. 
+
+**Chosen version: Another church member, a slave named George Wilson, informed his master about the plot.**",d631fa1a6982672e177e59ecaafd3234a9bb577f870711ebe33f1f3d30f3fa3f
+"It could also mean enough air was left for survivors to breathe , said Park Chi-mo , a professor of naval architecture and ocean engineering at South Korea 's Ulsan University .","It also meant there might be enough air for people to breathe , said Park Chi-mo . He is a professor at South Korea 's Ulsan University .","It could also mean enough air was left for survivors to breathe , said Park Chi-mo , a professor of naval architecture and ocean engineering at South Korea 's Ulsan University .","Simplified version 1: Park Chi-mo, a professor at Ulsan University in South Korea, mentioned that there might have been enough air left for survivors to breathe.
+
+Simplified version 2: Park Chi-mo, a professor at Ulsan University in South Korea, suggested that there could have been sufficient air for survivors to breathe. 
+
+**Chosen version: Park Chi-mo, a professor at Ulsan University in South Korea, mentioned that there might have been enough air left for survivors to breathe.**","Simplified version 1: It might also mean there was enough air left for survivors to breathe, according to Park Chi-mo, a professor at Ulsan University in South Korea.
+
+Simplified version 2: It could also mean there was enough air left for survivors to breathe, as per Park Chi-mo, a professor at Ulsan University in South Korea.
+
+**Chosen version: It might also mean there was enough air left for survivors to breathe, according to Park Chi-mo, a professor at Ulsan University in South Korea.**",6537561f7b41056dd961767c13be2e8ef01a364cf085dcd7209d640427d5e526
+"That helps them determine when to apply more , or fewer , chemicals .","That helps the states decide when to apply more , or fewer , chemicals to melt ice .",They use that information to decide when to apply more or fewer chemicals .,"Simplified version 1: This helps them decide when to use more or less chemicals.
+
+Simplified version 2: This helps them know when to use more or fewer chemicals.
+
+**Chosen version:**
+This helps them decide when to use more or less chemicals.","Simplified version 1: This helps them decide when to use more or less chemicals.
+
+Simplified version 2: This helps them know when to use more or less chemicals.
+
+**Chosen version: This helps them decide when to use more or less chemicals.**",febaec33d8e32a00b72f12d1e5958d15fbaf64ce8f0ed213efe7daf6d8e90dd5
+"The United States will accept 85,000 migrants from around the world next year , up from the 70,000 now permitted .","Next year , the United States will let in around 10,000 new Syrian refugees .","The United States will accept 85,000 migrants from around the world next year , up from the 70,000 now permitted .","Simplified version 1: The U.S. will allow 85,000 migrants next year, an increase from the current 70,000 limit.
+
+Simplified version 2: The U.S. will welcome 85,000 migrants next year, up from the current 70,000 allowed.
+
+**Chosen version: The U.S. will welcome 85,000 migrants next year, up from the current 70,000 allowed.**","Simplified version 1: The U.S. will allow 85,000 migrants next year, an increase from the current 70,000 limit.
+
+Simplified version 2: The U.S. will welcome 85,000 migrants next year, up from the current 70,000 allowed.
+
+**Chosen version: The U.S. will welcome 85,000 migrants next year, up from the current 70,000 allowed.**",bcbf7972e47c608632a6560da44ca605eccfa2fe4395800b7e315162097c2ed6
+"But the absence of U.S. boots on the ground changed the facts on the ground as well , and Islamic State was quick to take advantage .",But ISIS moved in when we pulled out our troops .,The absence of U.S. boots on the ground changed the facts on the ground . Islamic State was quick to take advantage .,"Simplified version 1: Without U.S. troops on the ground, the situation changed, and Islamic State acted fast.
+
+Simplified version 2: No U.S. boots on the ground meant Islamic State could act quickly. 
+
+**Chosen version: No U.S. boots on the ground meant Islamic State could act quickly.**","Simplified version 1: Without U.S. troops on the ground, the situation changed, and Islamic State acted fast.
+
+Simplified version 2: No U.S. boots on the ground meant Islamic State could act quickly. 
+
+**Chosen version: Without U.S. troops on the ground, the situation changed, and Islamic State acted fast.**",45524000dd03ef8ffd81831f59799c8b1821c0c10a7894252dd313ca9a34692c
+"Sweet corn is what Americans grill in the summer , and boil or bake during the rest of the year .",The first is sweet corn .,"Sweet corn is what Americans grill in the summer , and boil or bake during the rest of the year .","1. Americans grill sweet corn in the summer and cook it other ways throughout the year.
+2. Americans grill sweet corn in the summer and cook it differently in other seasons.
+
+I choose: Americans grill sweet corn in the summer and cook it other ways throughout the year.","1. Americans grill sweet corn in the summer and boil or bake it the rest of the year.
+2. Americans cook sweet corn by grilling it in the summer and boiling or baking it in other seasons.
+
+I choose: Americans grill sweet corn in the summer and boil or bake it the rest of the year.",a084ebdde012bbcb30cd6802c4d24f1f5380ded494241a13c3076213b44c0beb
+The part of the algae that contains chlorophyll is a jelly bean – shaped structure known as a chloroplast .,The part of the algae that contains chlorophyll is known as a chloroplast . It is shaped something like a jelly bean .,The part of the algae that contains chlorophyll is a jelly bean – shaped structure known as a chloroplast.,"Simplified version 1: The algae's chlorophyll-containing part is a jelly bean-shaped structure called a chloroplast.
+
+Simplified version 2: Algae's chlorophyll is in a jelly bean-shaped part called a chloroplast.
+
+**Chosen version: The algae's chlorophyll-containing part is a jelly bean-shaped structure called a chloroplast.**","Simplified version 1: The algae's chlorophyll is in a jelly bean-shaped part called a chloroplast.
+
+Simplified version 2: Algae's chlorophyll is in a structure shaped like a jelly bean, known as a chloroplast.
+
+**Chosen version: The algae's chlorophyll is in a jelly bean-shaped part called a chloroplast.**",b1457be0a5cb21fa057fffd141de4eb3410170aa08bac2745166c30e18734fb3
+"In a statement , BerryMex said it has been committed to "" fairness , honesty and respect for all employees "" since starting operations in the region in 2000 .","In a statement , BerryMex said it has been committed to "" fairness , honesty and respect for all employees . ""","BerryMex said it has been committed to "" fairness , honesty and respect for all employees "" since starting operations in the region in 2000 .","BerryMex stated that it has been dedicated to treating all employees fairly, honestly, and with respect since it began operating in the region in 2000.","BerryMex stated that it has been dedicated to treating all employees fairly, honestly, and with respect since it began operating in the region in 2000.",91402e6a08686056dd34671b7b8f31c50a45db998b2bc33569b21e78ac1d12f1
+""" In the beginning , we are going to find them mainly in gardens because they will be transported from garden to garden , "" he said .",""" In the beginning , we are going to find them mainly in gardens because they will be transported from garden to garden , "" Justine said of the spread of the flatworm .",""" In the beginning , we are going to find them mainly in gardens because they will be transported from garden to garden ,"" he said .","Simplified version 1: ""At first, we'll mostly see them in gardens as they move from one garden to another,"" he explained.
+
+Simplified version 2: ""Initially, we'll find them in gardens as they travel from one garden to another,"" he said.
+
+**Chosen version:**
+""At first, we'll mostly see them in gardens as they move from one garden to another,"" he explained.","Simplified version 1: ""At first, we'll mostly find them in gardens as they move from one garden to another,"" he explained.
+
+Simplified version 2: ""Initially, we'll see them mostly in gardens as they travel from one garden to another,"" he stated.
+
+**Chosen version:**
+""At first, we'll mostly find them in gardens as they move from one garden to another,"" he explained.",ee5e291af032d9b201219c1a433d401cb5d6220d3a65cc04550f46ac7c92ce9e
+"Now 80 , she is a third-degree black belt in American karate who can still snap off a spinning back kick and break boards and bones with her feet .",Helen Dugan is 80 years old .,She is now 80 . She is a third-degree black belt in American karate .,"Simplified version 1: At 80 years old, she is a third-degree black belt in American karate and can still perform powerful kicks to break boards and bones.
+
+Simplified version 2: She is 80 years old and a third-degree black belt in American karate, able to break boards and bones with her powerful kicks. 
+
+Chosen version: At 80 years old, she is a third-degree black belt in American karate and can still perform powerful kicks to break boards and bones.","Simplified version 1: She is now 80 years old and a third-degree black belt in American karate. She can still perform a spinning back kick and break boards and bones with her feet.
+
+Simplified version 2: At 80 years old, she is a third-degree black belt in American karate. She can still do a spinning back kick and break boards and bones with her feet.
+
+**Chosen version: At 80 years old, she is a third-degree black belt in American karate. She can still do a spinning back kick and break boards and bones with her feet.**",24cc5d3c49bdebce823782d4b75bb02dfd1c622bd18a8b42d899973294c6d56e
+"Anything that is cutting edge that can get their guys a couple more years in the league , "" said Dr. Jim Bradley , orthopedic surgeon for the NFL 's Pittsburgh Steelers .","Players want the best new medicine , said Dr. Jim Bradley . He is the doctor for the NFL 's Pittsburgh Steelers .","Dr. Jim Bradley , orthopedic surgeon for the NFL 's Pittsburgh Steelers , said , "" Anything that is cutting edge that can get their guys a couple more years in the league . ""","Simplified version 1: Dr. Jim Bradley, an orthopedic surgeon for the NFL's Pittsburgh Steelers, mentioned that using cutting-edge methods can help players extend their careers.
+
+Simplified version 2: Dr. Jim Bradley, a surgeon for the NFL's Pittsburgh Steelers, said that using advanced techniques can give players more years in the league. 
+
+**Chosen version:**
+Dr. Jim Bradley, an orthopedic surgeon for the NFL's Pittsburgh Steelers, mentioned that using cutting-edge methods can help players extend their careers.","Simplified version 1: Dr. Jim Bradley, an orthopedic surgeon for the NFL's Pittsburgh Steelers, mentioned that using cutting-edge methods can help players extend their careers.
+
+Simplified version 2: Dr. Jim Bradley, a surgeon for the NFL's Pittsburgh Steelers, said that using advanced techniques can help players play longer. 
+
+**Chosen version:**
+Dr. Jim Bradley, an orthopedic surgeon for the NFL's Pittsburgh Steelers, mentioned that using cutting-edge methods can help players extend their careers.",8a41711020d817843ba4fa82cbced2bcd30033255b9de38ab83b1a2f47e80593
+"Jordan survived on some limited food on board : flour pancakes fried on a propane stove and raw fish he caught with a hand net , Davis said .",Jordan survived on just a bit of food . He fried flour pancakes on a small stove and caught fish with a hand net .,Jordan survived on some limited food on board : flour pancakes fried on a propane stove and raw fish he caught with a hand net .,"Simplified version 1: Jordan ate flour pancakes and raw fish he caught with a net on the boat, according to Davis.
+
+Simplified version 2: Davis mentioned that Jordan survived on flour pancakes cooked on a stove and raw fish caught with a net while on board. 
+
+**Chosen version: Jordan ate flour pancakes and raw fish he caught with a net on the boat, according to Davis.**","Simplified version 1: Jordan ate flour pancakes and raw fish he caught with a net on the boat, according to Davis.
+
+Simplified version 2: Jordan ate flour pancakes and raw fish he caught with a net on the boat, as told by Davis. 
+
+**Chosen version: Jordan ate flour pancakes and raw fish he caught with a net on the boat, according to Davis.**",ce3f725cef44a578d10ed98b5c5d72df31235ca6f1d92dd1ff0261acd5c02afb
+"STOCKHOLM , Sweden — Three scientists from Sweden , the United States and Turkey won the Nobel Prize in chemistry on Wednesday .","STOCKHOLM , Sweden — Three scientists have won the Nobel Prize . They received it last Wednesday .","Three scientists from Sweden , the United States and Turkey won the Nobel Prize in chemistry on Wednesday .","Simplified version 1: Three scientists from Sweden, the United States, and Turkey won the Nobel Prize in chemistry in Stockholm, Sweden.
+
+Simplified version 2: Three scientists from Sweden, the United States, and Turkey won the Nobel Prize in chemistry in Stockholm. 
+
+Chosen version: Three scientists from Sweden, the United States, and Turkey won the Nobel Prize in chemistry in Stockholm.","Simplified version 1: Three scientists from Sweden, the United States, and Turkey won the Nobel Prize in chemistry in Stockholm, Sweden.
+
+Simplified version 2: Three scientists from Sweden, the United States, and Turkey won the Nobel Prize in chemistry in Stockholm. 
+
+Chosen version: Three scientists from Sweden, the United States, and Turkey won the Nobel Prize in chemistry in Stockholm.",3ceea22ed9583e6fdd0533362e625f1833f036b4828f963e13a55e56a8b41c36
+"She would also like to attract new recruits to her aging , shrinking order .","She would also like to attract women to her religious order . The nuns are growing older , and few women are coming to take their place .","She would like to attract new recruits to her aging , shrinking order .","Simplified version 1: She wants to bring in new members to her declining group.
+
+Simplified version 2: She aims to attract fresh members to her dwindling organization.
+
+Chosen version: She wants to bring in new members to her declining group.","1. She wants to bring in new members to her old and declining group.
+2. She wants to attract new people to her aging and shrinking organization.
+
+I choose: She wants to bring in new members to her old and declining group.",3d04fe189fb386617c150ca712cbe49516d7b87ebdb6484b7b7ad875e53ef8c6
+Zayner makes mixes in tiny glass containers .,Zayner is mixing in tiny glass bottles .,Zayner makes mixes in tiny glass containers.,"1. Zayner mixes things in small glass jars.
+2. Zayner creates blends in little glass bottles.
+
+Chosen version: Zayner mixes things in small glass jars.","1. Zayner mixes things in small glass jars.
+2. Zayner creates blends in little glass bottles.
+
+**Chosen version:**
+Zayner mixes things in small glass jars.",6738c4a08eae97789f9a5b18967d82630ba27e41097742f95f1b82cc178d538b
+"Kelly and other parents recently pushed for a public school downtown , and they lobbied to include a playground in a redesign of the city 's waterfront .",Kelly and other parents recently pushed the city to build a public school downtown .,Kelly and other parents pushed for a public school downtown . They lobbied to include a playground in a redesign of the city 's waterfront .,"Simplified version 1: Kelly and other parents wanted a new public school downtown and asked for a playground to be added to the city's waterfront redesign.
+
+Simplified version 2: Kelly and other parents worked to get a new public school in the city center and requested a playground be part of the waterfront renovation. 
+
+**Chosen version:**
+Kelly and other parents wanted a new public school downtown and asked for a playground to be added to the city's waterfront redesign.","Simplified version 1: Kelly and other parents wanted a new public school downtown and asked for a playground to be added to the city's waterfront redesign.
+
+Simplified version 2: Kelly and other parents worked to get a new public school in the city center and requested a playground be part of the waterfront renovation. 
+
+Chosen version: Kelly and other parents wanted a new public school downtown and asked for a playground to be added to the city's waterfront redesign.",58ea35b195c27a1bfa19f91620637c5d7cc217b9b904c66c83914a83927a7830
+"In 2008 , as part of its clean-up campaign for the Olympics , the capital of Beijing for the first time required public places like restaurants , bars and hotels to provide smoke-free areas or rooms .","As part of its clean-up campaign , it required public places such as restaurants , bars and hotels to provide smoke-free areas or rooms .","In 2008 , Beijing required public places like restaurants , bars and hotels to provide smoke-free areas or rooms .","Simplified version 1: In 2008, Beijing made public places like restaurants, bars, and hotels provide smoke-free areas for the Olympics cleanup campaign.
+
+Simplified version 2: In 2008, Beijing required restaurants, bars, and hotels to have smoke-free areas for the Olympics cleanup. 
+
+**Chosen version: In 2008, Beijing required restaurants, bars, and hotels to have smoke-free areas for the Olympics cleanup.**","Simplified version 1: In 2008, Beijing made public places like restaurants, bars, and hotels provide smoke-free areas for the Olympics clean-up campaign.
+
+Simplified version 2: In 2008, Beijing required restaurants, bars, and hotels to have smoke-free areas for the Olympics clean-up campaign. 
+
+**Chosen version: In 2008, Beijing required restaurants, bars, and hotels to have smoke-free areas for the Olympics clean-up campaign.**",803c2d86ac62e55889b6432a6886430b86dcd85f56d5a837fbea57da93d32bca
+"The roof leaks , the pipes are corroding and much of the communication cabling is not up to the demands of the digital age .",Its roof leaks and the pipes are breaking down .,"The roof leaks , the pipes are corroding and much of the communication cabling is not up to the demands of the digital age .","Simplified version 1: The roof leaks, pipes are corroding, and communication cabling is outdated for the digital age.
+
+Simplified version 2: The roof leaks, pipes are rusting, and communication cables are not suitable for the digital era.
+
+**Chosen version: The roof leaks, pipes are rusting, and communication cables are not suitable for the digital era.**","Simplified version 1: The roof leaks, pipes are corroding, and communication cabling is outdated for the digital age.
+
+Simplified version 2: The roof leaks, pipes are rusting, and the communication cables are not suitable for the digital era.
+
+**Chosen version: The roof leaks, pipes are rusting, and the communication cables are not suitable for the digital era.**",17beb27b10b29e8e76d666a9cfc49a822559d97972e6a6e251eb232a3c6fc317
+"He records music for them , and they put out and sell his albums .",He makes albums for the music company to sell .,"He records music for them , and they put out and sell his albums .","1. He makes music for them, and they release and sell his albums.
+2. He creates music for them, and they release and sell his albums.
+
+I choose: He makes music for them, and they release and sell his albums.","Simplified version 1: He makes music for them, and they release and sell his albums.
+
+Simplified version 2: He creates music for them, and they release and sell his albums.
+
+**Chosen version: He creates music for them, and they release and sell his albums.**",376535840d5dda8c7daca9ff6cb3d1f089d15eef5d215b14ef26091687d03057
+"Five years ago , a visitor from northern India complained that a tour operator had stolen his camera , cellphone and hundreds of dollars in cash while he was praying in the temple .","Five years ago , a visitor from northern India complained that his camera , phone and some cash were stolen .","Five years ago , a visitor from northern India complained that a tour operator had stolen his camera , cellphone and hundreds of dollars in cash while he was praying in the temple .","Simplified version 1: Five years ago, a man from northern India said a tour operator stole his camera, phone, and money while he was praying in a temple.
+
+Simplified version 2: Five years ago, a visitor from northern India reported that a tour operator took his camera, cellphone, and money while he was praying in a temple.
+
+**Chosen version:**
+Five years ago, a man from northern India said a tour operator stole his camera, phone, and money while he was praying in a temple.","Simplified version 1: Five years ago, a man from northern India said a tour operator stole his camera, phone, and money while he was praying in a temple.
+
+Simplified version 2: Five years ago, a visitor from northern India reported that a tour operator took his camera, cellphone, and money while he was praying in a temple.
+
+**Chosen version:**
+Five years ago, a man from northern India said a tour operator stole his camera, phone, and money while he was praying in a temple.",331ca93ac84f127590821d3bc7e7669a4fac229308fb36973fb74cbdd0fefac5
+"Harper says doctors who read stories are more empathetic and , therefore , more compassionate or caring , and more willing to listen to their patients ' stories .",Harper says doctors who read stories understand and care about their patients more . They become more willing to listen to their patients ' stories .,"Harper says doctors who read stories are more empathetic and , therefore , more compassionate or caring , and more willing to listen to their patients ' stories .","Simplified version 1: Harper believes doctors who read stories are more empathetic, compassionate, and willing to listen to their patients.
+
+Simplified version 2: Harper thinks doctors who read stories are kinder, more caring, and better at listening to patients. 
+
+**Chosen version: Harper believes doctors who read stories are more empathetic, compassionate, and willing to listen to their patients.**","Simplified version 1: Harper believes doctors who read stories are more empathetic, compassionate, and willing to listen to their patients.
+
+Simplified version 2: Harper thinks doctors who read stories are kinder, more caring, and better at listening to patients. 
+
+**Chosen version: Harper believes doctors who read stories are more empathetic, compassionate, and willing to listen to their patients.**",eb8830eed798f4966a7c8131b56fb3c5a4d7a8e95d3f5551dfbe0ed6ef2ae950
+"Hungry pups were left stranded , alone and starving when their mothers took too long to return .",Hungry pups were left alone when their mothers took too long to return . They were starving . Their mothers did not have much food for them .,"Hungry pups were left stranded , alone and starving when their mothers took too long to return .","1. The hungry puppies were abandoned and left alone without food because their mothers were gone for too long.
+2. The hungry puppies were left alone and starving because their mothers took too long to come back.
+
+Chosen version: The hungry puppies were left alone and starving because their mothers took too long to come back.","Simplified version 1: Hungry puppies were abandoned and left alone without food when their mothers didn't come back in time.
+
+Simplified version 2: Hungry puppies were left alone and starving because their mothers were late to return. 
+
+Chosen version: Hungry puppies were abandoned and left alone without food when their mothers didn't come back in time.",090a8f37774a0f780574dd70fd3a5814d3d4b83dde330a7ddfc82ed1b7966eb5
+"Scientists have no idea how eels protect their own brain and muscles from being damaged by electricity , Catania said .",Scientists have no idea how they stay safe .,Scientists have no idea how eels protect their own brain and muscles from being damaged by electricity .,"Simplified version 1: Scientists don't know how eels shield their brain and muscles from electricity, according to Catania.
+
+Simplified version 2: Catania said scientists are unsure how eels protect their brain and muscles from electricity. 
+
+**Chosen version:**
+Scientists don't know how eels shield their brain and muscles from electricity, according to Catania.","Simplified version 1: Scientists don't know how eels shield their brain and muscles from electricity, according to Catania.
+
+Simplified version 2: Catania said scientists are unsure how eels protect their brain and muscles from electricity. 
+
+**Chosen version:**
+Scientists don't know how eels shield their brain and muscles from electricity, according to Catania.",4f935403d93473c53d65c7bee8a6cf6790a48506da343b1a894d5326055e80dc
+""" It 's quite possible that Maybin is the worst player in the NFL , "" read one newspaper article .",Some news articles say Maybin was not a great football player .,It 's possible that Maybin is the worst player in the NFL .,"Simplified version 1: ""One newspaper article said Maybin might be the worst NFL player.""
+
+Simplified version 2: ""A newspaper article suggested Maybin could be the worst player in the NFL.""
+
+**Chosen version: ""One newspaper article said Maybin might be the worst NFL player.""**","Simplified version 1: ""One newspaper article said Maybin might be the worst NFL player.""
+
+Simplified version 2: ""A newspaper article suggested Maybin could be the worst player in the NFL.""
+
+Chosen version: ""A newspaper article suggested Maybin could be the worst player in the NFL.""",eb362b6c96a1f60f1362c7f91df276eab82488c96d1fb866a77844cab9d23242
+"The April study noted the presence of perchlorates , a kind of salt .",The study also found a type of salt on Mars .,"The April study found perchlorates , a kind of salt .","Simplified version 1: In April, a study found perchlorates, a type of salt.
+Simplified version 2: In April, a study discovered perchlorates, a salt type.
+
+Chosen version: In April, a study found perchlorates, a type of salt.","Simplified version 1: The April study found perchlorates, a type of salt.
+Simplified version 2: In April, a study discovered perchlorates, a salt type.
+
+Chosen version: The April study found perchlorates, a type of salt.",97b4ef092ec599b78f61560e1ca528b02e963021b48efa59abbf1261af197ed9
+"But , she says , "" Thankfully we respect each other , and that 's what is important . """," Thankfully we respect each other , and that 's what is important . ","She says , "" Thankfully we respect each other , and that 's what is important . ""","Simplified version 1: She says, ""We respect each other, and that's important.""
+
+Simplified version 2: She says, ""We respect each other, and that matters."" 
+
+**Chosen version: She says, ""We respect each other, and that's important.""**","Simplified version 1: She says, ""We respect each other, and that's important.""
+
+Simplified version 2: She says, ""We respect each other, and that matters."" 
+
+Final chosen version: She says, ""We respect each other, and that's important.""",16b8ac0b1e183f054793d75ac87289613f33b6b52da43ad0f30a4e9dabd1a667
+Chefs can be expensive to hire .,Chefs can cost a lot of money to hire .,Chefs can be expensive to hire .,"1. Chefs can cost a lot to hire.
+2. Hiring chefs can be costly.
+
+Chosen version: Chefs can cost a lot to hire.","1. Chefs can cost a lot to hire.
+2. Hiring chefs can be costly.
+
+**Chosen version:**
+Chefs can cost a lot to hire.",f9e6ed6d5bba00b15e2a6fbabeba7b2a8448028c35df6ab293fa016fe951ae56
+"Now , 25 years later and 12 miles up the road lies Pahoa .","Today , lava is heading toward Pahoa . The small town is 12 miles from Kalapana .","Now , 25 years later and 12 miles up the road lies Pahoa .","Simplified version 1: 25 years later, Pahoa is now 12 miles away.
+
+Simplified version 2: Pahoa is now 12 miles away, 25 years later.
+
+**Chosen version: Pahoa is now 12 miles away, 25 years later.**","Simplified version 1: 25 years later, Pahoa is now 12 miles away.
+
+Simplified version 2: Pahoa is now 12 miles away, 25 years later.
+
+Chosen version: Pahoa is now 12 miles away, 25 years later.",d7be2d239f70ee1528655d048bf321b20225bdf89a3875cc3b50628bc334d975
+"But that frees her , she said , to introduce the kind of advanced ideas that she finds most exciting about her field .","However , she said , they can still get a sense of the kinds of ideas that makes math so exciting for her .",She said that frees her to introduce advanced ideas that she finds exciting about her field .,"Simplified version 1: She said that being free allows her to share exciting advanced ideas in her field.
+
+Simplified version 2: She can now introduce exciting advanced ideas in her field because she is free. 
+
+**Chosen version: She can now introduce exciting advanced ideas in her field because she is free.**","Simplified version 1: She said it frees her to introduce exciting advanced ideas in her field.
+
+Simplified version 2: She said it allows her to bring in exciting advanced ideas in her field.
+
+Chosen version: She said it allows her to bring in exciting advanced ideas in her field.",3f2e17dd077e14cc62ac92186fee09a914bc04e7ea72a86be0874c1c769af5fe
+Their families had already been doing most of their shopping on base .,Families had already been doing most of their shopping on base .,Their families had already been doing most of their shopping on base.,"Simplified version 1: Their families were mostly shopping on base already.
+Simplified version 2: Their families shopped mostly on base.
+
+Chosen version: Their families shopped mostly on base.","Simplified version 1: Their families were mostly shopping on base already.
+
+Simplified version 2: Their families were already shopping mostly on base.
+
+**Chosen version: Their families were mostly shopping on base already.**",5230f22bd93e4092d601ba38e7217bad1a3ced571728cc21d7d4d88f799ff735
+"In impoverished , crime-ridden neighborhoods like Austin , Englewood and Lawndale , more than 80 percent of the children tested in 1995 had dangerous lead levels .","In 1995 , the children in these neighborhoods were tested . Most of the children had dangerous amounts of lead in their bodies .","In impoverished , crime-ridden neighborhoods like Austin , Englewood and Lawndale , more than 80 percent of the children tested in 1995 had dangerous lead levels .","Simplified version 1: In poor, crime-filled areas like Austin, Englewood, and Lawndale, over 80% of children tested in 1995 had high lead levels.
+
+Simplified version 2: In poor neighborhoods like Austin, Englewood, and Lawndale, over 80% of children tested in 1995 had dangerous levels of lead. 
+
+**Chosen version: In poor neighborhoods like Austin, Englewood, and Lawndale, over 80% of children tested in 1995 had dangerous levels of lead.**","Simplified version 1: In poor, crime-filled areas like Austin, Englewood, and Lawndale, over 80% of children tested in 1995 had high lead levels.
+
+Simplified version 2: In poor neighborhoods like Austin, Englewood, and Lawndale, over 80% of children tested in 1995 had dangerous levels of lead. 
+
+Final chosen version: In poor neighborhoods like Austin, Englewood, and Lawndale, over 80% of children tested in 1995 had dangerous levels of lead.",68d7ffe97fa94da557b810f21f895bff37a1eecb531fcf726e0a59f6a59a8168
+"Everything that can go wrong is going wrong , and we need to fix it . """,""" Everything that can go wrong is going wrong , "" Mendell says about the Earth 's problems . ... We need to fix it . ""","Everything that can go wrong is going wrong , and we need to fix it . ""","Simplified version 1: Everything is going wrong, and we must fix it.
+
+Simplified version 2: Everything is going wrong, and we need to make it right.
+
+**Chosen version:**
+Everything is going wrong, and we must fix it.","Simplified version 1: Everything is going wrong, and we must fix it.
+
+Simplified version 2: Everything is going wrong, and we need to make it right.
+
+**Chosen version:**
+Everything is going wrong, and we must fix it.",965782673603354691b53369ff02e3cdcad1ac3ca2a42e05f97d0173edda0354
+"Quickly , Paul Schmidt gathered his team and looked ahead to the next game , which would soon start .","After the game was over , coach Paul Schmidt quickly gathered the 9- and 10-year-old players around him to look ahead to the next game , which was starting soon .",Paul Schmidt gathered his team and looked ahead to the next game .,"Version 1: Paul Schmidt quickly gathered his team to prepare for the upcoming game starting soon.
+
+Version 2: Paul Schmidt hurriedly assembled his team to get ready for the next game about to begin. 
+
+Chosen version: Paul Schmidt quickly gathered his team to prepare for the upcoming game starting soon.","Version 1: Paul Schmidt quickly gathered his team to prepare for the upcoming game starting soon.
+
+Version 2: Paul Schmidt hurriedly assembled his team to get ready for the next game about to begin. 
+
+Chosen version: Paul Schmidt quickly gathered his team to prepare for the upcoming game starting soon.",f027c34a8e1cd823d1e8b971c6f8798ec597382cd42de98637eabcb22c342892
+Brown 's plan would also :,Other parts of Brown 's plan include :,Brown 's plan would also :,"Brown's plan would also: 
+
+Simplified version: Brown's plan will also:","Brown's plan would also: 
+
+Simplified version: Brown's plan will also:",15a50001ff11f6bc12b86fab921548cd0be14924fbac29b9fd0b9f49fe10e078
+"AquaBounty says that genetically modified salmon have the same flavor , texture , color and odor as the conventional fish .","AquaBounty says that genetically modified salmon has the same flavor , feel , color and smell as typical salmon .","AquaBounty says that genetically modified salmon have the same flavor , texture , color and odor as the conventional fish .","Simplified version 1: AquaBounty claims that genetically modified salmon taste, feel, look, and smell just like regular fish.
+
+Simplified version 2: AquaBounty states that genetically modified salmon have identical taste, texture, color, and smell to traditional fish.
+
+**Chosen version:**
+AquaBounty claims that genetically modified salmon taste, feel, look, and smell just like regular fish.","Simplified version 1: AquaBounty claims that genetically modified salmon taste, feel, look, and smell just like regular fish.
+
+Simplified version 2: AquaBounty states that genetically modified salmon have identical taste, texture, color, and smell to traditional fish.
+
+**Chosen version:**
+AquaBounty claims that genetically modified salmon taste, feel, look, and smell just like regular fish.",3600ded8e09c1663b8ae2c483979b969274d37bad6ab43679b46b008614e36a1
+"Most of the men in the profession are ethnic Sherpa people who live in the Himalayan highlands , an area at the bottom of Mount Everest .","Most sherpas are from the Himalayan highlands , the area at the bottom of Mount Everest .","Most of the men in the profession are ethnic Sherpa people who live in the Himalayan highlands , an area at the bottom of Mount Everest .","Simplified version 1: Many Sherpa men in the profession live in the Himalayan highlands near Mount Everest.
+
+Simplified version 2: Most men in the profession are Sherpa people who live near Mount Everest in the Himalayan highlands.
+
+**Chosen version: Most men in the profession are Sherpa people who live near Mount Everest in the Himalayan highlands.**","Simplified version 1: Many Sherpa men in the profession live in the Himalayan highlands near Mount Everest.
+
+Simplified version 2: Most men in the profession are Sherpa people who live near Mount Everest in the Himalayan highlands.
+
+**Chosen version: Many Sherpa men in the profession live in the Himalayan highlands near Mount Everest.**",687d791ef092758ebeb20ebdf3cac5c0a25882898ee48c832ff238ae38aa60c4
+"President Abraham Lincoln reportedly said to Stowe when he met her in 1862 , "" So you 're the little woman who wrote the book that started this great war ! ""","President Abraham Lincoln met Stowe in 1862 . It is said that he told her : "" So you 're the little woman who wrote the book that started this great war ! ""","Abraham Lincoln said to Stowe , "" So you 're the little woman who wrote the book that started this great war ! ""","Simplified version 1: President Abraham Lincoln met Stowe in 1862 and said, ""You're the woman who wrote the book that started the war.""
+
+Simplified version 2: In 1862, President Abraham Lincoln met Stowe and said, ""You're the woman who wrote the book that caused the war."" 
+
+Chosen version: President Abraham Lincoln met Stowe in 1862 and said, ""You're the woman who wrote the book that started the war.""","Simplified version 1: President Abraham Lincoln met Stowe in 1862 and said, ""You're the woman who wrote the book that started the war.""
+
+Simplified version 2: In 1862, President Abraham Lincoln met Stowe and said, ""You're the woman who wrote the book that caused the war."" 
+
+**Chosen version:**
+President Abraham Lincoln met Stowe in 1862 and said, ""You're the woman who wrote the book that started the war.""",a1fff81a8434057e0258e4f31ac0d69d4a04d7d2eaed8077c355550f7181f77c
+"And because they do , store manager Megan Zayatz , 29 , has the unenviable task of cleaning the skunk cages .",She has to clean the skunk cages .,"Megan Zayatz , 29 , has to clean the skunk cages .","Simplified version 1: Store manager Megan Zayatz, 29, cleans the skunk cages because they need it.
+Simplified version 2: Megan Zayatz, 29, the store manager, has to clean the skunk cages because they do. 
+
+**Chosen version:**
+Store manager Megan Zayatz, 29, cleans the skunk cages because they need it.","Simplified version 1: Store manager Megan Zayatz, 29, cleans the skunk cages because they do.
+
+Simplified version 2: Megan Zayatz, 29, the store manager, has to clean the skunk cages because they do. 
+
+**Chosen version: Store manager Megan Zayatz, 29, cleans the skunk cages because they do.**",2de30f110a665570436e47c43f32e9d66a8edce302291b89ac90fd409d0acb5f
+"Eventually , the sisters made it to Austria and then Germany .",The sisters made it to Germany in the end .,The sisters made it to Austria and then Germany .,"Simplified version 1: The sisters reached Austria and then Germany.
+
+Simplified version 2: The sisters arrived in Austria and later in Germany.
+
+**Chosen version: The sisters reached Austria and then Germany.**","Simplified version 1: The sisters reached Austria and then Germany.
+
+Simplified version 2: The sisters arrived in Austria and later in Germany.
+
+**Chosen version: The sisters reached Austria and then Germany.**",7fad0c3a90748f123d16f09dabb211c3ae186d74854666f4591021b3abd89601
+"The April study noted the presence of perchlorates - a kind of salt - which could make the boiling point of Mars 's water much higher , theoretically allowing it to remain liquid .","The April study noted the presence of perchlorates , a kind of salt . These perchlorates could make the boiling point of Mars 's water much higher , which could allow it to remain liquid .","The April study noted the presence of perchlorates - a kind of salt - which could make the boiling point of Mars ' water much higher , theoretically allowing it to remain liquid .","Simplified version 1: In April, a study found perchlorates on Mars, a type of salt that could raise the boiling point of water, potentially keeping it liquid.
+
+Simplified version 2: A recent study in April discovered perchlorates on Mars, a type of salt that could increase the boiling point of water, possibly keeping it in liquid form. 
+
+**Chosen version: In April, a study found perchlorates on Mars, a type of salt that could raise the boiling point of water, potentially keeping it liquid.**","Simplified version 1: In April, a study found perchlorates on Mars, a type of salt that could raise the boiling point of water, potentially keeping it liquid.
+
+Simplified version 2: A recent study in April discovered perchlorates, a type of salt on Mars that could increase the boiling point of water, possibly keeping it in liquid form. 
+
+**Chosen version: In April, a study found perchlorates on Mars, a type of salt that could raise the boiling point of water, potentially keeping it liquid.**",3a2eb8bb5f2055dbd886fdfaa119663a410a5d05a7c02f5ed2d5d1e5e11edf07
+"WASHINGTON — As standardized testing seems to be on the rise in schools , some parents say test refusal is growing .",Experts say that students are taking more tests than ever .,"WASHINGTON — As standardized testing seems to be on the rise in schools , some parents say test refusal is growing .","Simplified version 1: Standardized testing is increasing in schools, and some parents are saying more students are refusing to take the tests.
+
+Simplified version 2: More schools are using standardized tests, and some parents are noticing an increase in students refusing to take them.
+
+**Chosen version:**
+Standardized testing is increasing in schools, and some parents are saying more students are refusing to take the tests.","Simplified version 1: Standardized testing is increasing in schools, and some parents are saying more students are refusing to take the tests.
+
+Simplified version 2: More schools are using standardized tests, and some parents are noticing a rise in students refusing to take them.
+
+Chosen version: Standardized testing is increasing in schools, and some parents are saying more students are refusing to take the tests.",c7113cc607ee9e3602f638d206cdf83ccccfcce3bfa08affdf839c4096d4e64c
+They currently live in the Utrish Marine Mammal Research Station in Russia .,They now live in the Utrish Marine Mammal Research Station .,They live in the Utrish Marine Mammal Research Station in Russia.,"Simplified version 1: They live at the Utrish Marine Mammal Research Station in Russia.
+
+Simplified version 2: They are living at the Utrish Marine Mammal Research Station in Russia.
+
+**Chosen version: They live at the Utrish Marine Mammal Research Station in Russia.**","Simplified version 1: They live at the Utrish Marine Mammal Research Station in Russia.
+
+Simplified version 2: They reside at the Utrish Marine Mammal Research Station in Russia.
+
+**Chosen version: They live at the Utrish Marine Mammal Research Station in Russia.**",418375039cbffb468f0e21bfdaa5d08eb6b9ec99b74bf9bdf3ae05c43766a898
+""" I want to finish the job before people misunderstand what a count like this means , "" said Rose , who worries that the upbeat survey results will be used to bolster an effort to reduce the very protections that have boosted their numbers .",He thinks manatees should still be protected . Other people think that manatees do not need so much protection anymore . They think that manatees are safe enough now .,""" I want to finish the job before people misunderstand what a count like this means ,"" said Rose .","Simplified version 1: ""Rose wants to complete the task before others misinterpret the count's significance. She fears the positive survey may be used to weaken the protections that helped increase their numbers.""
+
+Simplified version 2: ""Rose aims to finish the task to avoid any misunderstandings about the count's importance. She is concerned that the positive survey results might be used to weaken the protections that have helped their numbers grow.""
+
+Chosen version: ""Rose wants to complete the task before others misinterpret the count's significance. She fears the positive survey may be used to weaken the protections that helped increase their numbers.""","Simplified version 1: ""Rose wants to complete the task before people misinterpret the count's significance. She's concerned that the positive survey results might be used to weaken the protections that have helped increase their numbers.""
+
+Simplified version 2: ""Rose aims to finish the task to avoid any misunderstandings about the count's meaning. She fears the positive survey results could be used to weaken the protections that have helped their numbers grow.""
+
+**Chosen version:**
+""Rose wants to complete the task before people misinterpret the count's significance. She's concerned that the positive survey results might be used to weaken the protections that have helped increase their numbers.""",2874655872d86dc44a4be8d265f89281a22ab291c770ef82578a743710eb0439

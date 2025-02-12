@@ -1,0 +1,533 @@
+Model,Prompt,Temperature,Score
+facebook/opt-iml-max-30b,"Step 1: Identify the challenging words, phrases, or sentence structures in the text and explain why they might be difficult to understand.
+Step 2: Rewrite the text in simpler language while ensuring that the original meaning is preserved.
+Step 3: Verify that the rewritten version is clear and easy to understand.
+**Important:** Provide only the final, simplified version.**
+
+Text to simplify: [...]",0.5,48.70127073994425
+facebook/opt-iml-max-30b,"Step 1: Identify the challenging words, phrases, or sentence structures in the text and explain why they might be difficult to understand.
+Step 2: Rewrite the text in simpler language while ensuring that the original meaning is preserved.
+Step 3: Verify that the rewritten version is clear and easy to understand.
+**Important:** Provide only the final, simplified version.**
+
+Text to simplify: [...]",0.7,48.70700867959976
+facebook/opt-iml-max-30b,"Step 1: Identify the challenging words, phrases, or sentence structures in the text and explain why they might be difficult to understand.
+Step 2: Rewrite the text in simpler language while ensuring that the original meaning is preserved.
+Step 3: Verify that the rewritten version is clear and easy to understand.
+**Important:** Provide only the final, simplified version.**
+
+Text to simplify: [...]",0.01,48.67881205178441
+facebook/opt-iml-max-30b,"Step 1: Rewrite the text below in a simpler and clearer way, while preserving its meaning.
+Step 2: Analyze your simplified text and identify any remaining complex words or unclear structures.
+Step 3: Improve the simplification by making it even more accessible. Ensure sentences are short, direct, and free of jargon.
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.5,48.29530779234589
+facebook/opt-iml-max-30b,"Step 1: Rewrite the text below in a simpler and clearer way, while preserving its meaning.
+Step 2: Analyze your simplified text and identify any remaining complex words or unclear structures.
+Step 3: Improve the simplification by making it even more accessible. Ensure sentences are short, direct, and free of jargon.
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.7,48.286383470472366
+facebook/opt-iml-max-30b,"Step 1: Rewrite the text below in a simpler and clearer way, while preserving its meaning.
+Step 2: Analyze your simplified text and identify any remaining complex words or unclear structures.
+Step 3: Improve the simplification by making it even more accessible. Ensure sentences are short, direct, and free of jargon.
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.01,48.26290101600355
+facebook/opt-iml-max-30b,"Rewrite the text below so that it is easily understandable for a 8-year-old children.
+Ensure that:
+- Sentences are short and direct.
+- Difficult words are replaced with simple alternatives.
+- The overall meaning remains the same.
+
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.5,48.89310879275509
+facebook/opt-iml-max-30b,"Rewrite the text below so that it is easily understandable for a 8-year-old children.
+Ensure that:
+- Sentences are short and direct.
+- Difficult words are replaced with simple alternatives.
+- The overall meaning remains the same.
+
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.7,48.89541604006239
+facebook/opt-iml-max-30b,"Rewrite the text below so that it is easily understandable for a 8-year-old children.
+Ensure that:
+- Sentences are short and direct.
+- Difficult words are replaced with simple alternatives.
+- The overall meaning remains the same.
+
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.01,48.846587928771
+facebook/opt-iml-max-30b,"Step 1: Identify any difficult words or phrases in the text.
+Step 2: Replace them with simpler alternatives and rewrite the text in short sentences.**Important:** Provide only the simplified text.
+
+Text to simplify: [...]",0.5,49.40081061684158
+facebook/opt-iml-max-30b,"Step 1: Identify any difficult words or phrases in the text.
+Step 2: Replace them with simpler alternatives and rewrite the text in short sentences.**Important:** Provide only the simplified text.
+
+Text to simplify: [...]",0.7,49.450476582675115
+facebook/opt-iml-max-30b,"Step 1: Identify any difficult words or phrases in the text.
+Step 2: Replace them with simpler alternatives and rewrite the text in short sentences.**Important:** Provide only the simplified text.
+
+Text to simplify: [...]",0.01,49.345721890795275
+facebook/opt-iml-max-30b,"Generate TWO different simplified versions of the text below. Then pick the one that is simpler and clearer. **Important:** Output only your final chosen version.
+
+Original text: [...]",0.5,49.472866018713034
+facebook/opt-iml-max-30b,"Generate TWO different simplified versions of the text below. Then pick the one that is simpler and clearer. **Important:** Output only your final chosen version.
+
+Original text: [...]",0.7,49.43305836535044
+facebook/opt-iml-max-30b,"Generate TWO different simplified versions of the text below. Then pick the one that is simpler and clearer. **Important:** Output only your final chosen version.
+
+Original text: [...]",0.01,49.503808638978036
+google/flan-t5-xxl,"Step 1: Identify the challenging words, phrases, or sentence structures in the text and explain why they might be difficult to understand.
+Step 2: Rewrite the text in simpler language while ensuring that the original meaning is preserved.
+Step 3: Verify that the rewritten version is clear and easy to understand.
+**Important:** Provide only the final, simplified version.**
+
+Text to simplify: [...]",0.5,42.39973951097963
+google/flan-t5-xxl,"Step 1: Identify the challenging words, phrases, or sentence structures in the text and explain why they might be difficult to understand.
+Step 2: Rewrite the text in simpler language while ensuring that the original meaning is preserved.
+Step 3: Verify that the rewritten version is clear and easy to understand.
+**Important:** Provide only the final, simplified version.**
+
+Text to simplify: [...]",0.7,41.03422007123245
+google/flan-t5-xxl,"Step 1: Identify the challenging words, phrases, or sentence structures in the text and explain why they might be difficult to understand.
+Step 2: Rewrite the text in simpler language while ensuring that the original meaning is preserved.
+Step 3: Verify that the rewritten version is clear and easy to understand.
+**Important:** Provide only the final, simplified version.**
+
+Text to simplify: [...]",0.01,46.02563599249271
+google/flan-t5-xxl,"Step 1: Rewrite the text below in a simpler and clearer way, while preserving its meaning.
+Step 2: Analyze your simplified text and identify any remaining complex words or unclear structures.
+Step 3: Improve the simplification by making it even more accessible. Ensure sentences are short, direct, and free of jargon.
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.5,41.85836223751241
+google/flan-t5-xxl,"Step 1: Rewrite the text below in a simpler and clearer way, while preserving its meaning.
+Step 2: Analyze your simplified text and identify any remaining complex words or unclear structures.
+Step 3: Improve the simplification by making it even more accessible. Ensure sentences are short, direct, and free of jargon.
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.7,38.484628800716806
+google/flan-t5-xxl,"Step 1: Rewrite the text below in a simpler and clearer way, while preserving its meaning.
+Step 2: Analyze your simplified text and identify any remaining complex words or unclear structures.
+Step 3: Improve the simplification by making it even more accessible. Ensure sentences are short, direct, and free of jargon.
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.01,45.58564600731919
+google/flan-t5-xxl,"Rewrite the text below so that it is easily understandable for a 8-year-old children.
+Ensure that:
+- Sentences are short and direct.
+- Difficult words are replaced with simple alternatives.
+- The overall meaning remains the same.
+
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.5,46.41762283314476
+google/flan-t5-xxl,"Rewrite the text below so that it is easily understandable for a 8-year-old children.
+Ensure that:
+- Sentences are short and direct.
+- Difficult words are replaced with simple alternatives.
+- The overall meaning remains the same.
+
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.7,42.92901594487431
+google/flan-t5-xxl,"Rewrite the text below so that it is easily understandable for a 8-year-old children.
+Ensure that:
+- Sentences are short and direct.
+- Difficult words are replaced with simple alternatives.
+- The overall meaning remains the same.
+
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.01,48.706608031826335
+google/flan-t5-xxl,"Step 1: Identify any difficult words or phrases in the text.
+Step 2: Replace them with simpler alternatives and rewrite the text in short sentences.**Important:** Provide only the simplified text.
+
+Text to simplify: [...]",0.5,44.59970044074615
+google/flan-t5-xxl,"Step 1: Identify any difficult words or phrases in the text.
+Step 2: Replace them with simpler alternatives and rewrite the text in short sentences.**Important:** Provide only the simplified text.
+
+Text to simplify: [...]",0.7,41.466618624924536
+google/flan-t5-xxl,"Step 1: Identify any difficult words or phrases in the text.
+Step 2: Replace them with simpler alternatives and rewrite the text in short sentences.**Important:** Provide only the simplified text.
+
+Text to simplify: [...]",0.01,48.371568516806164
+google/flan-t5-xxl,"Generate TWO different simplified versions of the text below. Then pick the one that is simpler and clearer. **Important:** Output only your final chosen version.
+
+Original text: [...]",0.5,43.64311201918847
+google/flan-t5-xxl,"Generate TWO different simplified versions of the text below. Then pick the one that is simpler and clearer. **Important:** Output only your final chosen version.
+
+Original text: [...]",0.7,40.27739429252024
+google/flan-t5-xxl,"Generate TWO different simplified versions of the text below. Then pick the one that is simpler and clearer. **Important:** Output only your final chosen version.
+
+Original text: [...]",0.01,46.48807400260395
+text-davinci-003,"Step 1: Identify the challenging words, phrases, or sentence structures in the text and explain why they might be difficult to understand.
+Step 2: Rewrite the text in simpler language while ensuring that the original meaning is preserved.
+Step 3: Verify that the rewritten version is clear and easy to understand.
+**Important:** Provide only the final, simplified version.**
+
+Text to simplify: [...]",0.5,36.037990911270654
+text-davinci-003,"Step 1: Identify the challenging words, phrases, or sentence structures in the text and explain why they might be difficult to understand.
+Step 2: Rewrite the text in simpler language while ensuring that the original meaning is preserved.
+Step 3: Verify that the rewritten version is clear and easy to understand.
+**Important:** Provide only the final, simplified version.**
+
+Text to simplify: [...]",0.7,36.35811634124506
+text-davinci-003,"Step 1: Identify the challenging words, phrases, or sentence structures in the text and explain why they might be difficult to understand.
+Step 2: Rewrite the text in simpler language while ensuring that the original meaning is preserved.
+Step 3: Verify that the rewritten version is clear and easy to understand.
+**Important:** Provide only the final, simplified version.**
+
+Text to simplify: [...]",0.0,36.866388702404635
+text-davinci-003,"Step 1: Rewrite the text below in a simpler and clearer way, while preserving its meaning.
+Step 2: Analyze your simplified text and identify any remaining complex words or unclear structures.
+Step 3: Improve the simplification by making it even more accessible. Ensure sentences are short, direct, and free of jargon.
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.5,36.445527044824594
+text-davinci-003,"Step 1: Rewrite the text below in a simpler and clearer way, while preserving its meaning.
+Step 2: Analyze your simplified text and identify any remaining complex words or unclear structures.
+Step 3: Improve the simplification by making it even more accessible. Ensure sentences are short, direct, and free of jargon.
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.7,36.07806648056901
+text-davinci-003,"Step 1: Rewrite the text below in a simpler and clearer way, while preserving its meaning.
+Step 2: Analyze your simplified text and identify any remaining complex words or unclear structures.
+Step 3: Improve the simplification by making it even more accessible. Ensure sentences are short, direct, and free of jargon.
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.0,36.86024829388006
+text-davinci-003,"Rewrite the text below so that it is easily understandable for a 8-year-old children.
+Ensure that:
+- Sentences are short and direct.
+- Difficult words are replaced with simple alternatives.
+- The overall meaning remains the same.
+
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.5,37.52407024512959
+text-davinci-003,"Rewrite the text below so that it is easily understandable for a 8-year-old children.
+Ensure that:
+- Sentences are short and direct.
+- Difficult words are replaced with simple alternatives.
+- The overall meaning remains the same.
+
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.7,36.65782988027931
+text-davinci-003,"Rewrite the text below so that it is easily understandable for a 8-year-old children.
+Ensure that:
+- Sentences are short and direct.
+- Difficult words are replaced with simple alternatives.
+- The overall meaning remains the same.
+
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.0,37.096090677903
+text-davinci-003,"Step 1: Identify any difficult words or phrases in the text.
+Step 2: Replace them with simpler alternatives and rewrite the text in short sentences.**Important:** Provide only the simplified text.
+
+Text to simplify: [...]",0.5,37.19358697505627
+text-davinci-003,"Step 1: Identify any difficult words or phrases in the text.
+Step 2: Replace them with simpler alternatives and rewrite the text in short sentences.**Important:** Provide only the simplified text.
+
+Text to simplify: [...]",0.7,35.99737175701426
+text-davinci-003,"Step 1: Identify any difficult words or phrases in the text.
+Step 2: Replace them with simpler alternatives and rewrite the text in short sentences.**Important:** Provide only the simplified text.
+
+Text to simplify: [...]",0.0,36.604595115891925
+text-davinci-003,"Generate TWO different simplified versions of the text below. Then pick the one that is simpler and clearer. **Important:** Output only your final chosen version.
+
+Original text: [...]",0.5,37.49625068681197
+text-davinci-003,"Generate TWO different simplified versions of the text below. Then pick the one that is simpler and clearer. **Important:** Output only your final chosen version.
+
+Original text: [...]",0.7,36.464739171804375
+text-davinci-003,"Generate TWO different simplified versions of the text below. Then pick the one that is simpler and clearer. **Important:** Output only your final chosen version.
+
+Original text: [...]",0.0,36.0228885875468
+bigscience/T0pp,"Step 1: Identify the challenging words, phrases, or sentence structures in the text and explain why they might be difficult to understand.
+Step 2: Rewrite the text in simpler language while ensuring that the original meaning is preserved.
+Step 3: Verify that the rewritten version is clear and easy to understand.
+**Important:** Provide only the final, simplified version.**
+
+Text to simplify: [...]",0.5,44.48110156702483
+bigscience/T0pp,"Step 1: Identify the challenging words, phrases, or sentence structures in the text and explain why they might be difficult to understand.
+Step 2: Rewrite the text in simpler language while ensuring that the original meaning is preserved.
+Step 3: Verify that the rewritten version is clear and easy to understand.
+**Important:** Provide only the final, simplified version.**
+
+Text to simplify: [...]",0.7,42.50885685913189
+bigscience/T0pp,"Step 1: Identify the challenging words, phrases, or sentence structures in the text and explain why they might be difficult to understand.
+Step 2: Rewrite the text in simpler language while ensuring that the original meaning is preserved.
+Step 3: Verify that the rewritten version is clear and easy to understand.
+**Important:** Provide only the final, simplified version.**
+
+Text to simplify: [...]",0.01,46.3039487369169
+bigscience/T0pp,"Step 1: Rewrite the text below in a simpler and clearer way, while preserving its meaning.
+Step 2: Analyze your simplified text and identify any remaining complex words or unclear structures.
+Step 3: Improve the simplification by making it even more accessible. Ensure sentences are short, direct, and free of jargon.
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.5,44.43445799051563
+bigscience/T0pp,"Step 1: Rewrite the text below in a simpler and clearer way, while preserving its meaning.
+Step 2: Analyze your simplified text and identify any remaining complex words or unclear structures.
+Step 3: Improve the simplification by making it even more accessible. Ensure sentences are short, direct, and free of jargon.
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.7,40.26279525148376
+bigscience/T0pp,"Step 1: Rewrite the text below in a simpler and clearer way, while preserving its meaning.
+Step 2: Analyze your simplified text and identify any remaining complex words or unclear structures.
+Step 3: Improve the simplification by making it even more accessible. Ensure sentences are short, direct, and free of jargon.
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.01,45.86909978263897
+bigscience/T0pp,"Rewrite the text below so that it is easily understandable for a 8-year-old children.
+Ensure that:
+- Sentences are short and direct.
+- Difficult words are replaced with simple alternatives.
+- The overall meaning remains the same.
+
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.5,43.068882229969574
+bigscience/T0pp,"Rewrite the text below so that it is easily understandable for a 8-year-old children.
+Ensure that:
+- Sentences are short and direct.
+- Difficult words are replaced with simple alternatives.
+- The overall meaning remains the same.
+
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.7,39.76783739529165
+bigscience/T0pp,"Rewrite the text below so that it is easily understandable for a 8-year-old children.
+Ensure that:
+- Sentences are short and direct.
+- Difficult words are replaced with simple alternatives.
+- The overall meaning remains the same.
+
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.01,42.0193303497248
+bigscience/T0pp,"Step 1: Identify any difficult words or phrases in the text.
+Step 2: Replace them with simpler alternatives and rewrite the text in short sentences.**Important:** Provide only the simplified text.
+
+Text to simplify: [...]",0.5,45.56451140537337
+bigscience/T0pp,"Step 1: Identify any difficult words or phrases in the text.
+Step 2: Replace them with simpler alternatives and rewrite the text in short sentences.**Important:** Provide only the simplified text.
+
+Text to simplify: [...]",0.7,40.57355561936291
+bigscience/T0pp,"Step 1: Identify any difficult words or phrases in the text.
+Step 2: Replace them with simpler alternatives and rewrite the text in short sentences.**Important:** Provide only the simplified text.
+
+Text to simplify: [...]",0.01,47.28514663388117
+bigscience/T0pp,"Generate TWO different simplified versions of the text below. Then pick the one that is simpler and clearer. **Important:** Output only your final chosen version.
+
+Original text: [...]",0.5,46.16428268126297
+bigscience/T0pp,"Generate TWO different simplified versions of the text below. Then pick the one that is simpler and clearer. **Important:** Output only your final chosen version.
+
+Original text: [...]",0.7,44.37445782080484
+bigscience/T0pp,"Generate TWO different simplified versions of the text below. Then pick the one that is simpler and clearer. **Important:** Output only your final chosen version.
+
+Original text: [...]",0.01,48.2405620851939
+google/flan-ul2,"Step 1: Identify the challenging words, phrases, or sentence structures in the text and explain why they might be difficult to understand.
+Step 2: Rewrite the text in simpler language while ensuring that the original meaning is preserved.
+Step 3: Verify that the rewritten version is clear and easy to understand.
+**Important:** Provide only the final, simplified version.**
+
+Text to simplify: [...]",0.5,45.16775035834482
+google/flan-ul2,"Step 1: Identify the challenging words, phrases, or sentence structures in the text and explain why they might be difficult to understand.
+Step 2: Rewrite the text in simpler language while ensuring that the original meaning is preserved.
+Step 3: Verify that the rewritten version is clear and easy to understand.
+**Important:** Provide only the final, simplified version.**
+
+Text to simplify: [...]",0.7,43.83912679237245
+google/flan-ul2,"Step 1: Identify the challenging words, phrases, or sentence structures in the text and explain why they might be difficult to understand.
+Step 2: Rewrite the text in simpler language while ensuring that the original meaning is preserved.
+Step 3: Verify that the rewritten version is clear and easy to understand.
+**Important:** Provide only the final, simplified version.**
+
+Text to simplify: [...]",0.01,45.80908058595776
+google/flan-ul2,"Step 1: Rewrite the text below in a simpler and clearer way, while preserving its meaning.
+Step 2: Analyze your simplified text and identify any remaining complex words or unclear structures.
+Step 3: Improve the simplification by making it even more accessible. Ensure sentences are short, direct, and free of jargon.
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.5,44.473956733399234
+google/flan-ul2,"Step 1: Rewrite the text below in a simpler and clearer way, while preserving its meaning.
+Step 2: Analyze your simplified text and identify any remaining complex words or unclear structures.
+Step 3: Improve the simplification by making it even more accessible. Ensure sentences are short, direct, and free of jargon.
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.7,42.393200122721154
+google/flan-ul2,"Step 1: Rewrite the text below in a simpler and clearer way, while preserving its meaning.
+Step 2: Analyze your simplified text and identify any remaining complex words or unclear structures.
+Step 3: Improve the simplification by making it even more accessible. Ensure sentences are short, direct, and free of jargon.
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.01,45.3346663370401
+google/flan-ul2,"Rewrite the text below so that it is easily understandable for a 8-year-old children.
+Ensure that:
+- Sentences are short and direct.
+- Difficult words are replaced with simple alternatives.
+- The overall meaning remains the same.
+
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.5,41.4049182176719
+google/flan-ul2,"Rewrite the text below so that it is easily understandable for a 8-year-old children.
+Ensure that:
+- Sentences are short and direct.
+- Difficult words are replaced with simple alternatives.
+- The overall meaning remains the same.
+
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.7,40.46672370072678
+google/flan-ul2,"Rewrite the text below so that it is easily understandable for a 8-year-old children.
+Ensure that:
+- Sentences are short and direct.
+- Difficult words are replaced with simple alternatives.
+- The overall meaning remains the same.
+
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.01,44.3488274065919
+google/flan-ul2,"Step 1: Identify any difficult words or phrases in the text.
+Step 2: Replace them with simpler alternatives and rewrite the text in short sentences.**Important:** Provide only the simplified text.
+
+Text to simplify: [...]",0.5,43.85055534608297
+google/flan-ul2,"Step 1: Identify any difficult words or phrases in the text.
+Step 2: Replace them with simpler alternatives and rewrite the text in short sentences.**Important:** Provide only the simplified text.
+
+Text to simplify: [...]",0.7,42.01347264060317
+google/flan-ul2,"Step 1: Identify any difficult words or phrases in the text.
+Step 2: Replace them with simpler alternatives and rewrite the text in short sentences.**Important:** Provide only the simplified text.
+
+Text to simplify: [...]",0.01,47.62313099084749
+google/flan-ul2,"Generate TWO different simplified versions of the text below. Then pick the one that is simpler and clearer. **Important:** Output only your final chosen version.
+
+Original text: [...]",0.5,47.41887879330628
+google/flan-ul2,"Generate TWO different simplified versions of the text below. Then pick the one that is simpler and clearer. **Important:** Output only your final chosen version.
+
+Original text: [...]",0.7,42.866971111895666
+google/flan-ul2,"Generate TWO different simplified versions of the text below. Then pick the one that is simpler and clearer. **Important:** Output only your final chosen version.
+
+Original text: [...]",0.01,48.51777654556865
+davinci-instruct-beta,"Step 1: Identify the challenging words, phrases, or sentence structures in the text and explain why they might be difficult to understand.
+Step 2: Rewrite the text in simpler language while ensuring that the original meaning is preserved.
+Step 3: Verify that the rewritten version is clear and easy to understand.
+**Important:** Provide only the final, simplified version.**
+
+Text to simplify: [...]",0.5,36.293638107495845
+davinci-instruct-beta,"Step 1: Identify the challenging words, phrases, or sentence structures in the text and explain why they might be difficult to understand.
+Step 2: Rewrite the text in simpler language while ensuring that the original meaning is preserved.
+Step 3: Verify that the rewritten version is clear and easy to understand.
+**Important:** Provide only the final, simplified version.**
+
+Text to simplify: [...]",0.7,36.065003110972306
+davinci-instruct-beta,"Step 1: Identify the challenging words, phrases, or sentence structures in the text and explain why they might be difficult to understand.
+Step 2: Rewrite the text in simpler language while ensuring that the original meaning is preserved.
+Step 3: Verify that the rewritten version is clear and easy to understand.
+**Important:** Provide only the final, simplified version.**
+
+Text to simplify: [...]",0.0,35.798548100713894
+davinci-instruct-beta,"Step 1: Rewrite the text below in a simpler and clearer way, while preserving its meaning.
+Step 2: Analyze your simplified text and identify any remaining complex words or unclear structures.
+Step 3: Improve the simplification by making it even more accessible. Ensure sentences are short, direct, and free of jargon.
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.5,35.87186150720333
+davinci-instruct-beta,"Step 1: Rewrite the text below in a simpler and clearer way, while preserving its meaning.
+Step 2: Analyze your simplified text and identify any remaining complex words or unclear structures.
+Step 3: Improve the simplification by making it even more accessible. Ensure sentences are short, direct, and free of jargon.
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.7,36.50221146586218
+davinci-instruct-beta,"Step 1: Rewrite the text below in a simpler and clearer way, while preserving its meaning.
+Step 2: Analyze your simplified text and identify any remaining complex words or unclear structures.
+Step 3: Improve the simplification by making it even more accessible. Ensure sentences are short, direct, and free of jargon.
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.0,37.41068082077207
+davinci-instruct-beta,"Rewrite the text below so that it is easily understandable for a 8-year-old children.
+Ensure that:
+- Sentences are short and direct.
+- Difficult words are replaced with simple alternatives.
+- The overall meaning remains the same.
+
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.5,36.89789761214535
+davinci-instruct-beta,"Rewrite the text below so that it is easily understandable for a 8-year-old children.
+Ensure that:
+- Sentences are short and direct.
+- Difficult words are replaced with simple alternatives.
+- The overall meaning remains the same.
+
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.7,37.021067257935776
+davinci-instruct-beta,"Rewrite the text below so that it is easily understandable for a 8-year-old children.
+Ensure that:
+- Sentences are short and direct.
+- Difficult words are replaced with simple alternatives.
+- The overall meaning remains the same.
+
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.0,37.30968563022706
+davinci-instruct-beta,"Step 1: Identify any difficult words or phrases in the text.
+Step 2: Replace them with simpler alternatives and rewrite the text in short sentences.**Important:** Provide only the simplified text.
+
+Text to simplify: [...]",0.5,36.420868927255434
+davinci-instruct-beta,"Step 1: Identify any difficult words or phrases in the text.
+Step 2: Replace them with simpler alternatives and rewrite the text in short sentences.**Important:** Provide only the simplified text.
+
+Text to simplify: [...]",0.7,36.808943066077106
+davinci-instruct-beta,"Step 1: Identify any difficult words or phrases in the text.
+Step 2: Replace them with simpler alternatives and rewrite the text in short sentences.**Important:** Provide only the simplified text.
+
+Text to simplify: [...]",0.0,36.20452735153739
+davinci-instruct-beta,"Generate TWO different simplified versions of the text below. Then pick the one that is simpler and clearer. **Important:** Output only your final chosen version.
+
+Original text: [...]",0.5,36.0829275503207
+davinci-instruct-beta,"Generate TWO different simplified versions of the text below. Then pick the one that is simpler and clearer. **Important:** Output only your final chosen version.
+
+Original text: [...]",0.7,37.733247193084786
+davinci-instruct-beta,"Generate TWO different simplified versions of the text below. Then pick the one that is simpler and clearer. **Important:** Output only your final chosen version.
+
+Original text: [...]",0.0,36.82787437830961
+gpt-3.5-turbo,"Step 1: Identify the challenging words, phrases, or sentence structures in the text and explain why they might be difficult to understand.
+Step 2: Rewrite the text in simpler language while ensuring that the original meaning is preserved.
+Step 3: Verify that the rewritten version is clear and easy to understand.
+**Important:** Provide only the final, simplified version.**
+
+Text to simplify: [...]",0.0,36.02616194077991
+gpt-3.5-turbo,"Step 1: Rewrite the text below in a simpler and clearer way, while preserving its meaning.
+Step 2: Analyze your simplified text and identify any remaining complex words or unclear structures.
+Step 3: Improve the simplification by making it even more accessible. Ensure sentences are short, direct, and free of jargon.
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.0,36.57577673347225
+gpt-3.5-turbo,"Rewrite the text below so that it is easily understandable for a 8-year-old children.
+Ensure that:
+- Sentences are short and direct.
+- Difficult words are replaced with simple alternatives.
+- The overall meaning remains the same.
+
+**Important:** Output only the final refined version.
+
+Text to simplify: [...]",0.0,36.874072067744244
+gpt-3.5-turbo,"Step 1: Identify any difficult words or phrases in the text.
+Step 2: Replace them with simpler alternatives and rewrite the text in short sentences.**Important:** Provide only the simplified text.
+
+Text to simplify: [...]",0.0,35.95879630527845
+gpt-3.5-turbo,"Generate TWO different simplified versions of the text below. Then pick the one that is simpler and clearer. **Important:** Output only your final chosen version.
+
+Original text: [...]",0.0,36.33357198453755

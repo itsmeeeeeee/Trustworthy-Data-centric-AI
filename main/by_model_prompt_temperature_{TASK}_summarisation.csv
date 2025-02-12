@@ -1,0 +1,363 @@
+Model,Prompt,Temperature,Score
+text-davinci-003,"Summarize the following text in 2-3 sentences while keeping the key information intact.
+**Output only the final summary, without explanations or bullet points.**
+
+Text: [...]",0.5,0.25526438381376526
+text-davinci-003,"Summarize the following text in 2-3 sentences while keeping the key information intact.
+**Output only the final summary, without explanations or bullet points.**
+
+Text: [...]",0.7,0.2639637973925855
+text-davinci-003,"Summarize the following text in 2-3 sentences while keeping the key information intact.
+**Output only the final summary, without explanations or bullet points.**
+
+Text: [...]",0.0,0.2600477698840143
+text-davinci-003,"Provide a structured summary of the following text. Follow these steps internally but output only the final summary:
+
+Step 1: Identify a suitable title based on the text.
+Step 2: Extract the three most important key points.
+Step 3: Generate a concise summary in 1-2 sentences using the key points.
+
+**Important:** Do not include the title or key points in the output. Only return the final summary.
+
+Text: [...]",0.5,0.223649671501352
+text-davinci-003,"Provide a structured summary of the following text. Follow these steps internally but output only the final summary:
+
+Step 1: Identify a suitable title based on the text.
+Step 2: Extract the three most important key points.
+Step 3: Generate a concise summary in 1-2 sentences using the key points.
+
+**Important:** Do not include the title or key points in the output. Only return the final summary.
+
+Text: [...]",0.7,0.23270134494702735
+text-davinci-003,"Provide a structured summary of the following text. Follow these steps internally but output only the final summary:
+
+Step 1: Identify a suitable title based on the text.
+Step 2: Extract the three most important key points.
+Step 3: Generate a concise summary in 1-2 sentences using the key points.
+
+**Important:** Do not include the title or key points in the output. Only return the final summary.
+
+Text: [...]",0.0,0.23516415861066195
+text-davinci-003,"Generate a highly concise summary of the following text in a **single sentence** while preserving its main idea.
+**Return only the final summary sentence, without any additional text.**
+
+Text: [...]",0.5,0.2314815186861991
+text-davinci-003,"Generate a highly concise summary of the following text in a **single sentence** while preserving its main idea.
+**Return only the final summary sentence, without any additional text.**
+
+Text: [...]",0.7,0.22697901174436383
+text-davinci-003,"Generate a highly concise summary of the following text in a **single sentence** while preserving its main idea.
+**Return only the final summary sentence, without any additional text.**
+
+Text: [...]",0.0,0.22830144025871393
+google/flan-ul2,Provide a summary of the following Text: [...] highlighting the key themes and arguments,0.5,0.12654381423301073
+google/flan-ul2,Provide a summary of the following Text: [...] highlighting the key themes and arguments,0.7,0.11294286619375318
+google/flan-ul2,Provide a summary of the following Text: [...] highlighting the key themes and arguments,0.01,0.13532550036546878
+google/flan-ul2,"Provide a structured summary of the following text. Follow these steps internally but output only the final summary:
+
+Step 1: Identify a suitable title based on the text.
+Step 2: Extract the three most important key points.
+Step 3: Generate a concise summary in 1-2 sentences using the key points.
+
+**Important:** Do not include the title or key points in the output. Only return the final summary.
+
+Text: [...]",0.5,0.10712273001866206
+google/flan-ul2,"Provide a structured summary of the following text. Follow these steps internally but output only the final summary:
+
+Step 1: Identify a suitable title based on the text.
+Step 2: Extract the three most important key points.
+Step 3: Generate a concise summary in 1-2 sentences using the key points.
+
+**Important:** Do not include the title or key points in the output. Only return the final summary.
+
+Text: [...]",0.7,0.10538733879949273
+google/flan-ul2,"Provide a structured summary of the following text. Follow these steps internally but output only the final summary:
+
+Step 1: Identify a suitable title based on the text.
+Step 2: Extract the three most important key points.
+Step 3: Generate a concise summary in 1-2 sentences using the key points.
+
+**Important:** Do not include the title or key points in the output. Only return the final summary.
+
+Text: [...]",0.01,0.10282474979170811
+google/flan-ul2,"Generate a highly concise summary of the following text in a **single sentence** while preserving its main idea.
+**Return only the final summary sentence, without any additional text.**
+
+Text: [...]",0.5,0.1563758881332646
+google/flan-ul2,"Generate a highly concise summary of the following text in a **single sentence** while preserving its main idea.
+**Return only the final summary sentence, without any additional text.**
+
+Text: [...]",0.7,0.14281951306788576
+google/flan-ul2,"Generate a highly concise summary of the following text in a **single sentence** while preserving its main idea.
+**Return only the final summary sentence, without any additional text.**
+
+Text: [...]",0.01,0.1645852689945147
+google/flan-ul2,"Summarisation the following Text: [...], ensuring to capture key points, highlight crucial arguments and provide a concise
+        yet comprehensive understanding of the content",0.5,0.12514783943519045
+google/flan-ul2,"Summarisation the following Text: [...], ensuring to capture key points, highlight crucial arguments and provide a concise
+        yet comprehensive understanding of the content",0.7,0.1056577016089253
+google/flan-ul2,"Summarisation the following Text: [...], ensuring to capture key points, highlight crucial arguments and provide a concise
+        yet comprehensive understanding of the content",0.01,0.12436312316557911
+google/flan-ul2,"Summarize the following text in 2-3 sentences while keeping the key information intact.
+**Important:** Output only the final summary, without explanations or bullet points.
+
+Text: [...]",0.5,0.1350210691929612
+google/flan-ul2,"Summarize the following text in 2-3 sentences while keeping the key information intact.
+**Important:** Output only the final summary, without explanations or bullet points.
+
+Text: [...]",0.7,0.12282260716162859
+google/flan-ul2,"Summarize the following text in 2-3 sentences while keeping the key information intact.
+**Important:** Output only the final summary, without explanations or bullet points.
+
+Text: [...]",0.01,0.1572783094786538
+bigscience/T0pp,Provide a summary of the following Text: [...] highlighting the key themes and arguments,0.5,0.2617561953253341
+bigscience/T0pp,Provide a summary of the following Text: [...] highlighting the key themes and arguments,0.7,0.26078701887378886
+bigscience/T0pp,Provide a summary of the following Text: [...] highlighting the key themes and arguments,0.01,0.27296442649223723
+bigscience/T0pp,"Provide a structured summary of the following text. Follow these steps internally but output only the final summary:
+
+Step 1: Identify a suitable title based on the text.
+Step 2: Extract the three most important key points.
+Step 3: Generate a concise summary in 1-2 sentences using the key points.
+
+**Important:** Do not include the title or key points in the output. Only return the final summary.
+
+Text: [...]",0.5,0.1713495344947554
+bigscience/T0pp,"Provide a structured summary of the following text. Follow these steps internally but output only the final summary:
+
+Step 1: Identify a suitable title based on the text.
+Step 2: Extract the three most important key points.
+Step 3: Generate a concise summary in 1-2 sentences using the key points.
+
+**Important:** Do not include the title or key points in the output. Only return the final summary.
+
+Text: [...]",0.7,0.15947815260005255
+bigscience/T0pp,"Provide a structured summary of the following text. Follow these steps internally but output only the final summary:
+
+Step 1: Identify a suitable title based on the text.
+Step 2: Extract the three most important key points.
+Step 3: Generate a concise summary in 1-2 sentences using the key points.
+
+**Important:** Do not include the title or key points in the output. Only return the final summary.
+
+Text: [...]",0.01,0.18783644833678315
+bigscience/T0pp,"Generate a highly concise summary of the following text in a **single sentence** while preserving its main idea.
+**Return only the final summary sentence, without any additional text.**
+
+Text: [...]",0.5,0.24129288329526327
+bigscience/T0pp,"Generate a highly concise summary of the following text in a **single sentence** while preserving its main idea.
+**Return only the final summary sentence, without any additional text.**
+
+Text: [...]",0.7,0.23290846618206493
+bigscience/T0pp,"Generate a highly concise summary of the following text in a **single sentence** while preserving its main idea.
+**Return only the final summary sentence, without any additional text.**
+
+Text: [...]",0.01,0.24448543256502797
+bigscience/T0pp,"Summarisation the following Text: [...], ensuring to capture key points, highlight crucial arguments and provide a concise
+        yet comprehensive understanding of the content",0.5,0.26756114856371155
+bigscience/T0pp,"Summarisation the following Text: [...], ensuring to capture key points, highlight crucial arguments and provide a concise
+        yet comprehensive understanding of the content",0.7,0.24941827567623764
+bigscience/T0pp,"Summarisation the following Text: [...], ensuring to capture key points, highlight crucial arguments and provide a concise
+        yet comprehensive understanding of the content",0.01,0.26460792741808664
+bigscience/T0pp,"Summarize the following text in 2-3 sentences while keeping the key information intact.
+**Important:** Output only the final summary, without explanations or bullet points.
+
+Text: [...]",0.5,0.26384588023374855
+bigscience/T0pp,"Summarize the following text in 2-3 sentences while keeping the key information intact.
+**Important:** Output only the final summary, without explanations or bullet points.
+
+Text: [...]",0.7,0.24091086915012408
+bigscience/T0pp,"Summarize the following text in 2-3 sentences while keeping the key information intact.
+**Important:** Output only the final summary, without explanations or bullet points.
+
+Text: [...]",0.01,0.2659816145504588
+google/flan-t5-xxl,Provide a summary of the following Text: [...] highlighting the key themes and arguments,0.5,0.16323075114386
+google/flan-t5-xxl,Provide a summary of the following Text: [...] highlighting the key themes and arguments,0.7,0.15633093925784147
+google/flan-t5-xxl,Provide a summary of the following Text: [...] highlighting the key themes and arguments,0.01,0.165123465242205
+google/flan-t5-xxl,"Provide a structured summary of the following text. Follow these steps internally but output only the final summary:
+
+Step 1: Identify a suitable title based on the text.
+Step 2: Extract the three most important key points.
+Step 3: Generate a concise summary in 1-2 sentences using the key points.
+
+**Important:** Do not include the title or key points in the output. Only return the final summary.
+
+Text: [...]",0.5,0.12827558396289368
+google/flan-t5-xxl,"Provide a structured summary of the following text. Follow these steps internally but output only the final summary:
+
+Step 1: Identify a suitable title based on the text.
+Step 2: Extract the three most important key points.
+Step 3: Generate a concise summary in 1-2 sentences using the key points.
+
+**Important:** Do not include the title or key points in the output. Only return the final summary.
+
+Text: [...]",0.7,0.11911543540706981
+google/flan-t5-xxl,"Provide a structured summary of the following text. Follow these steps internally but output only the final summary:
+
+Step 1: Identify a suitable title based on the text.
+Step 2: Extract the three most important key points.
+Step 3: Generate a concise summary in 1-2 sentences using the key points.
+
+**Important:** Do not include the title or key points in the output. Only return the final summary.
+
+Text: [...]",0.01,0.14648450617459857
+google/flan-t5-xxl,"Generate a highly concise summary of the following text in a **single sentence** while preserving its main idea.
+**Return only the final summary sentence, without any additional text.**
+
+Text: [...]",0.5,0.18093510756235107
+google/flan-t5-xxl,"Generate a highly concise summary of the following text in a **single sentence** while preserving its main idea.
+**Return only the final summary sentence, without any additional text.**
+
+Text: [...]",0.7,0.16355222094689062
+google/flan-t5-xxl,"Generate a highly concise summary of the following text in a **single sentence** while preserving its main idea.
+**Return only the final summary sentence, without any additional text.**
+
+Text: [...]",0.01,0.17803299259726038
+google/flan-t5-xxl,"Summarisation the following Text: [...], ensuring to capture key points, highlight crucial arguments and provide a concise
+        yet comprehensive understanding of the content",0.5,0.1508615503822127
+google/flan-t5-xxl,"Summarisation the following Text: [...], ensuring to capture key points, highlight crucial arguments and provide a concise
+        yet comprehensive understanding of the content",0.7,0.12925862558333523
+google/flan-t5-xxl,"Summarisation the following Text: [...], ensuring to capture key points, highlight crucial arguments and provide a concise
+        yet comprehensive understanding of the content",0.01,0.15514325476982066
+google/flan-t5-xxl,"Summarize the following text in 2-3 sentences while keeping the key information intact.
+**Important:** Output only the final summary, without explanations or bullet points.
+
+Text: [...]",0.5,0.12807037515598046
+google/flan-t5-xxl,"Summarize the following text in 2-3 sentences while keeping the key information intact.
+**Important:** Output only the final summary, without explanations or bullet points.
+
+Text: [...]",0.7,0.09974541737195755
+google/flan-t5-xxl,"Summarize the following text in 2-3 sentences while keeping the key information intact.
+**Important:** Output only the final summary, without explanations or bullet points.
+
+Text: [...]",0.01,0.13217709381899914
+facebook/opt-iml-max-30b,Provide a summary of the following Text: [...] highlighting the key themes and arguments,0.5,0.19895349340144616
+facebook/opt-iml-max-30b,Provide a summary of the following Text: [...] highlighting the key themes and arguments,0.7,0.20263361608557412
+facebook/opt-iml-max-30b,Provide a summary of the following Text: [...] highlighting the key themes and arguments,0.01,0.20416935264461558
+facebook/opt-iml-max-30b,"Provide a structured summary of the following text. Follow these steps internally but output only the final summary:
+
+Step 1: Identify a suitable title based on the text.
+Step 2: Extract the three most important key points.
+Step 3: Generate a concise summary in 1-2 sentences using the key points.
+
+**Important:** Do not include the title or key points in the output. Only return the final summary.
+
+Text: [...]",0.5,0.12550240642481614
+facebook/opt-iml-max-30b,"Provide a structured summary of the following text. Follow these steps internally but output only the final summary:
+
+Step 1: Identify a suitable title based on the text.
+Step 2: Extract the three most important key points.
+Step 3: Generate a concise summary in 1-2 sentences using the key points.
+
+**Important:** Do not include the title or key points in the output. Only return the final summary.
+
+Text: [...]",0.7,0.12303611911587715
+facebook/opt-iml-max-30b,"Provide a structured summary of the following text. Follow these steps internally but output only the final summary:
+
+Step 1: Identify a suitable title based on the text.
+Step 2: Extract the three most important key points.
+Step 3: Generate a concise summary in 1-2 sentences using the key points.
+
+**Important:** Do not include the title or key points in the output. Only return the final summary.
+
+Text: [...]",0.01,0.12736176005901956
+facebook/opt-iml-max-30b,"Generate a highly concise summary of the following text in a **single sentence** while preserving its main idea.
+**Return only the final summary sentence, without any additional text.**
+
+Text: [...]",0.5,0.20709426974454506
+facebook/opt-iml-max-30b,"Generate a highly concise summary of the following text in a **single sentence** while preserving its main idea.
+**Return only the final summary sentence, without any additional text.**
+
+Text: [...]",0.7,0.2065306648956761
+facebook/opt-iml-max-30b,"Generate a highly concise summary of the following text in a **single sentence** while preserving its main idea.
+**Return only the final summary sentence, without any additional text.**
+
+Text: [...]",0.01,0.20792007112756292
+facebook/opt-iml-max-30b,"Summarisation the following Text: [...], ensuring to capture key points, highlight crucial arguments and provide a concise
+        yet comprehensive understanding of the content",0.5,0.18587604510182126
+facebook/opt-iml-max-30b,"Summarisation the following Text: [...], ensuring to capture key points, highlight crucial arguments and provide a concise
+        yet comprehensive understanding of the content",0.7,0.1895473676005305
+facebook/opt-iml-max-30b,"Summarisation the following Text: [...], ensuring to capture key points, highlight crucial arguments and provide a concise
+        yet comprehensive understanding of the content",0.01,0.1828842029657636
+facebook/opt-iml-max-30b,"Summarize the following text in 2-3 sentences while keeping the key information intact.
+**Important:** Output only the final summary, without explanations or bullet points.
+
+Text: [...]",0.5,0.19743618793147327
+facebook/opt-iml-max-30b,"Summarize the following text in 2-3 sentences while keeping the key information intact.
+**Important:** Output only the final summary, without explanations or bullet points.
+
+Text: [...]",0.7,0.19142988492315346
+facebook/opt-iml-max-30b,"Summarize the following text in 2-3 sentences while keeping the key information intact.
+**Important:** Output only the final summary, without explanations or bullet points.
+
+Text: [...]",0.01,0.20156929595031
+davinci-instruct-beta,"Summarize the following text in 2-3 sentences while keeping the key information intact.
+**Output only the final summary, without explanations or bullet points.**
+
+Text: [...]",0.5,0.2645595076381912
+davinci-instruct-beta,"Summarize the following text in 2-3 sentences while keeping the key information intact.
+**Output only the final summary, without explanations or bullet points.**
+
+Text: [...]",0.7,0.25591202028161514
+davinci-instruct-beta,"Summarize the following text in 2-3 sentences while keeping the key information intact.
+**Output only the final summary, without explanations or bullet points.**
+
+Text: [...]",0.0,0.2642939376843146
+davinci-instruct-beta,"Provide a structured summary of the following text. Follow these steps internally but output only the final summary:
+
+Step 1: Identify a suitable title based on the text.
+Step 2: Extract the three most important key points.
+Step 3: Generate a concise summary in 1-2 sentences using the key points.
+
+**Important:** Do not include the title or key points in the output. Only return the final summary.
+
+Text: [...]",0.5,0.2346247927872349
+davinci-instruct-beta,"Provide a structured summary of the following text. Follow these steps internally but output only the final summary:
+
+Step 1: Identify a suitable title based on the text.
+Step 2: Extract the three most important key points.
+Step 3: Generate a concise summary in 1-2 sentences using the key points.
+
+**Important:** Do not include the title or key points in the output. Only return the final summary.
+
+Text: [...]",0.7,0.23114347377754987
+davinci-instruct-beta,"Provide a structured summary of the following text. Follow these steps internally but output only the final summary:
+
+Step 1: Identify a suitable title based on the text.
+Step 2: Extract the three most important key points.
+Step 3: Generate a concise summary in 1-2 sentences using the key points.
+
+**Important:** Do not include the title or key points in the output. Only return the final summary.
+
+Text: [...]",0.0,0.2326040997681651
+davinci-instruct-beta,"Generate a highly concise summary of the following text in a **single sentence** while preserving its main idea.
+**Return only the final summary sentence, without any additional text.**
+
+Text: [...]",0.5,0.22307792372230287
+davinci-instruct-beta,"Generate a highly concise summary of the following text in a **single sentence** while preserving its main idea.
+**Return only the final summary sentence, without any additional text.**
+
+Text: [...]",0.7,0.22278305813381333
+davinci-instruct-beta,"Generate a highly concise summary of the following text in a **single sentence** while preserving its main idea.
+**Return only the final summary sentence, without any additional text.**
+
+Text: [...]",0.0,0.2244840878188255
+gpt-3.5-turbo,Provide a summary of the following Text: [...] highlighting the key themes and arguments,0.0,0.21500216719504983
+gpt-3.5-turbo,"Provide a structured summary of the following text. Follow these steps internally but output only the final summary:
+
+Step 1: Identify a suitable title based on the text.
+Step 2: Extract the three most important key points.
+Step 3: Generate a concise summary in 1-2 sentences using the key points.
+
+**Important:** Do not include the title or key points in the output. Only return the final summary.
+
+Text: [...]",0.0,0.23585409101969776
+gpt-3.5-turbo,"Generate a highly concise summary of the following text in a **single sentence** while preserving its main idea.
+**Return only the final summary sentence, without any additional text.**
+
+Text: [...]",0.0,0.23191094448078362
+gpt-3.5-turbo,"Summarisation the following Text: [...], ensuring to capture key points, highlight crucial arguments and provide a concise
+        yet comprehensive understanding of the content",0.0,0.228952090524294
+gpt-3.5-turbo,"Summarize the following text in 2-3 sentences while keeping the key information intact.
+**Important:** Output only the final summary, without explanations or bullet points.
+
+Text: [...]",0.0,0.26162173581661846
